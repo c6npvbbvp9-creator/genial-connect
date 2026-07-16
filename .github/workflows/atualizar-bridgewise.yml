@@ -1,0 +1,42 @@
+name: Atualizar Bridgewise
+
+# Roda 2x ao dia nos dias úteis e sob demanda. As credenciais ficam nos
+# Secrets do repositório — nunca no código nem no site.
+on:
+  schedule:
+    - cron: '0 11,17 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  bridgewise:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Buscar análises Bridgewise
+        env:
+          BRIDGEWISE_APP_ID: ${{ secrets.BRIDGEWISE_APP_ID }}
+          BRIDGEWISE_TENANT_ID: ${{ secrets.BRIDGEWISE_TENANT_ID }}
+          BRIDGEWISE_SECRET: ${{ secrets.BRIDGEWISE_SECRET }}
+          BRIDGEWISE_TOKEN_URL: ${{ secrets.BRIDGEWISE_TOKEN_URL }}
+          BRIDGEWISE_API_BASE: ${{ secrets.BRIDGEWISE_API_BASE }}
+        run: node scraper/bridgewise.mjs
+
+      - name: Commitar se houve mudança
+        run: |
+          if git diff --quiet -- bridgewise.json; then
+            echo "Sem mudança na Bridgewise — nada a fazer."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add bridgewise.json
+          git commit -m "chore: atualiza Bridgewise ($(date -u +%d/%m\ %H:%M) UTC)"
+          git push

@@ -1,0 +1,40 @@
+name: Atualizar notícias (Resenha Trader)
+
+# Roda de hora em hora nos dias úteis (horário comercial de Brasília) e sob
+# demanda pelo botão "Run workflow". A chave da API fica no Secret
+# RESENHA_NEWS_API_KEY — nunca no código nem no site.
+on:
+  schedule:
+    # cron em UTC. 11:00–23:00 UTC ≈ 08:00–20:00 em Brasília (UTC-3).
+    - cron: '20 11-23 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Buscar notícias e casar com as carteiras
+        env:
+          RESENHA_NEWS_API_KEY: ${{ secrets.RESENHA_NEWS_API_KEY }}
+        run: node scraper/news.mjs --limit 60 --out news.json
+
+      - name: Commitar se houve mudança
+        run: |
+          if git diff --quiet -- news.json; then
+            echo "Nenhuma notícia nova — nada a fazer."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          git commit -m "chore: atualiza notícias Resenha ($(date -u +%d/%m\ %H:%M) UTC)"
+          git push

@@ -1,0 +1,169 @@
+{
+  "geradoEm": "2026-07-16T15:42:33.392Z",
+  "fonte": "seed (--seed)",
+  "cobertura": 6,
+  "bridgewise": {
+    "PRIO3": {
+      "score": 71,
+      "sinal": "Neutro-Positivo",
+      "tendencia": "estável",
+      "fatores": {
+        "Valuation": 78,
+        "Crescimento": 65,
+        "Rentabilidade": 82,
+        "Saúde_Financeira": 74,
+        "Momentum": 48
+      },
+      "peers": [
+        {
+          "ticker": "PRIO3",
+          "score": 71
+        },
+        {
+          "ticker": "RECV3",
+          "score": 63
+        },
+        {
+          "ticker": "PETR4",
+          "score": 69
+        },
+        {
+          "ticker": "RRRP3",
+          "score": 58
+        }
+      ],
+      "resumo": "Rentabilidade e valuation acima da mediana do setor; momentum enfraquecido no curto prazo. Alinhado à leitura da Genial de tese estrutural sólida, mas sem margem de segurança para uma recomendação mais otimista agora."
+    },
+    "VALE3": {
+      "score": 84,
+      "sinal": "Positivo",
+      "tendencia": "alta",
+      "fatores": {
+        "Valuation": 88,
+        "Crescimento": 72,
+        "Rentabilidade": 86,
+        "Saúde_Financeira": 90,
+        "Momentum": 74
+      },
+      "peers": [
+        {
+          "ticker": "VALE3",
+          "score": 84
+        },
+        {
+          "ticker": "CSNA3",
+          "score": 61
+        },
+        {
+          "ticker": "GGBR4",
+          "score": 66
+        },
+        {
+          "ticker": "USIM5",
+          "score": 52
+        }
+      ],
+      "resumo": "Score elevado sustentado por saúde financeira e valuation atrativo. Coerente com a recomendação de MANTER do Research Genial, com cautela sobre o ritmo recente de alta."
+    },
+    "ITSA4": {
+      "score": 83,
+      "sinal": "Positivo",
+      "tendencia": "alta",
+      "fatores": {
+        "Valuation": 88,
+        "Crescimento": 68,
+        "Rentabilidade": 80,
+        "Saúde_Financeira": 86,
+        "Momentum": 74
+      },
+      "peers": [
+        {
+          "ticker": "ITSA4",
+          "score": 83
+        },
+        {
+          "ticker": "ITUB4",
+          "score": 88
+        }
+      ],
+      "resumo": "Valuation atrativo, com desconto de holding ainda não totalmente refletido no preço. Converge com a recomendação de COMPRAR do Research Genial."
+    },
+    "SBSP3": {
+      "score": 78,
+      "sinal": "Positivo",
+      "tendencia": "alta",
+      "fatores": {
+        "Valuation": 74,
+        "Crescimento": 70,
+        "Rentabilidade": 80,
+        "Saúde_Financeira": 82,
+        "Momentum": 72
+      },
+      "peers": [
+        {
+          "ticker": "SBSP3",
+          "score": 78
+        },
+        {
+          "ticker": "SAPR11",
+          "score": 69
+        }
+      ],
+      "resumo": "Ganhos de eficiência pós-privatização sustentam o score elevado. Reforça a recomendação de COMPRAR do Research Genial."
+    },
+    "ITUB4": {
+      "score": 88,
+      "sinal": "Positivo",
+      "tendencia": "alta",
+      "fatores": {
+        "Valuation": 80,
+        "Crescimento": 78,
+        "Rentabilidade": 94,
+        "Saúde_Financeira": 92,
+        "Momentum": 82
+      },
+      "peers": [
+        {
+          "ticker": "ITUB4",
+          "score": 88
+        },
+        {
+          "ticker": "BBDC4",
+          "score": 74
+        },
+        {
+          "ticker": "BBAS3",
+          "score": 79
+        },
+        {
+          "ticker": "SANB11",
+          "score": 68
+        }
+      ],
+      "resumo": "Melhor score do setor bancário, puxado por rentabilidade (ROE) e saúde financeira. Ativo coberto pela Genial, sem relatório novo na fila hoje."
+    },
+    "ABEV3": {
+      "score": 59,
+      "sinal": "Neutro",
+      "tendencia": "estável",
+      "fatores": {
+        "Valuation": 62,
+        "Crescimento": 44,
+        "Rentabilidade": 71,
+        "Saúde_Financeira": 80,
+        "Momentum": 41
+      },
+      "peers": [
+        {
+          "ticker": "ABEV3",
+          "score": 59
+        },
+        {
+          "ticker": "ABEV3",
+          "score": 59
+        }
+      ],
+      "resumo": "Fundamentos sólidos de saúde financeira, mas crescimento e momentum fracos. Ativo coberto pela Genial, sem relatório novo na fila hoje."
+    }
+  }
+}

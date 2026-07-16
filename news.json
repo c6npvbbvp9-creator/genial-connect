@@ -1,0 +1,5081 @@
+{
+  "geradoEm": "2026-07-16T16:54:14.397Z",
+  "total": 120,
+  "comImpacto": 72,
+  "paginas": 1,
+  "fonte": "exemplo (seed local — substituído pelo Actions)",
+  "idsComImpacto": [
+    "n3",
+    "n12",
+    "n23",
+    "n32",
+    "n43",
+    "n52",
+    "n63",
+    "n72",
+    "n83",
+    "n92",
+    "n103",
+    "n112",
+    "n2",
+    "n11",
+    "n22",
+    "n31",
+    "n42",
+    "n51",
+    "n62",
+    "n71",
+    "n82",
+    "n91",
+    "n102",
+    "n111",
+    "n1",
+    "n10",
+    "n21",
+    "n30",
+    "n41",
+    "n50",
+    "n61",
+    "n70",
+    "n81",
+    "n90",
+    "n101",
+    "n110",
+    "n5",
+    "n25",
+    "n45",
+    "n65",
+    "n85",
+    "n105",
+    "n6",
+    "n26",
+    "n46",
+    "n66",
+    "n86",
+    "n106",
+    "n8",
+    "n7",
+    "n4",
+    "n9",
+    "n28",
+    "n27",
+    "n24",
+    "n29",
+    "n48",
+    "n47",
+    "n44",
+    "n49",
+    "n68",
+    "n67",
+    "n64",
+    "n69",
+    "n88",
+    "n87",
+    "n84",
+    "n89",
+    "n108",
+    "n107",
+    "n104",
+    "n109"
+  ],
+  "noticias": [
+    {
+      "id": "n8",
+      "titulo": "Banco do Brasil (BBAS3) surpreende com inadimplência controlada",
+      "resumo": "Carteira agro em foco; análise pondera riscos e atratividade do valuation.",
+      "fonte": "Brazil Journal",
+      "categoria": "corporativo",
+      "tickers": [
+        "BBAS3"
+      ],
+      "publicado": "2026-04-29T17:00:00Z",
+      "data": "2026-04-29",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 2,
+        "patrimonioAfetado": 190000,
+        "amostra": [
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 110000,
+            "conc": 12,
+            "tickers": [
+              "BBAS3"
+            ]
+          },
+          {
+            "id": "c19",
+            "nome": "Renata Duarte",
+            "valor": 80000,
+            "conc": 12,
+            "tickers": [
+              "BBAS3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n20",
+      "titulo": "China anuncia novo pacote de estímulo à economia",
+      "resumo": "Medidas animam mercados de commodities e exportadoras globais.",
+      "fonte": "Brazil Journal",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-29T16:30:00Z",
+      "data": "2026-04-29",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n7",
+      "titulo": "Sabesp (SBSP3) mostra ganhos de eficiência pós-privatização",
+      "resumo": "Primeiros números operacionais animam; relatório revisa premissas de margem.",
+      "fonte": "Bloomberg",
+      "categoria": "corporativo",
+      "tickers": [
+        "SBSP3"
+      ],
+      "publicado": "2026-04-29T16:00:00Z",
+      "data": "2026-04-29",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 2,
+        "patrimonioAfetado": 60000,
+        "amostra": [
+          {
+            "id": "c14",
+            "nome": "Vinícius Tavares",
+            "valor": 35000,
+            "conc": 13,
+            "tickers": [
+              "SBSP3"
+            ]
+          },
+          {
+            "id": "c9",
+            "nome": "Rodrigo Faria",
+            "valor": 25000,
+            "conc": 8,
+            "tickers": [
+              "SBSP3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n19",
+      "titulo": "Bolsa fecha em alta puxada por commodities",
+      "resumo": "Ibovespa acompanha exterior positivo; giro financeiro sobe.",
+      "fonte": "Bloomberg",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-29T15:30:00Z",
+      "data": "2026-04-29",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n6",
+      "titulo": "Itaúsa (ITSA4) negocia com desconto de holding acima da média histórica",
+      "resumo": "Assimetria favorável, segundo análise, com portfólio de participações resiliente.",
+      "fonte": "Infomoney",
+      "categoria": "corporativo",
+      "tickers": [
+        "ITSA4"
+      ],
+      "publicado": "2026-04-29T15:00:00Z",
+      "data": "2026-04-29",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 3,
+        "patrimonioAfetado": 295000,
+        "amostra": [
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 130000,
+            "conc": 14,
+            "tickers": [
+              "ITSA4"
+            ]
+          },
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 95000,
+            "conc": 8,
+            "tickers": [
+              "ITSA4"
+            ]
+          },
+          {
+            "id": "c19",
+            "nome": "Renata Duarte",
+            "valor": 70000,
+            "conc": 10,
+            "tickers": [
+              "ITSA4"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n18",
+      "titulo": "Boletim Focus revisa projeção de PIB para cima",
+      "resumo": "Economistas ficam mais otimistas com atividade no segundo semestre.",
+      "fonte": "Infomoney",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-29T14:30:00Z",
+      "data": "2026-04-29",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n5",
+      "titulo": "Ambev (ABEV3): volume fraco no trimestre preocupa mercado",
+      "resumo": "Crescimento e momentum decepcionam apesar da saúde financeira robusta.",
+      "fonte": "Finance News",
+      "categoria": "corporativo",
+      "tickers": [
+        "ABEV3"
+      ],
+      "publicado": "2026-04-29T14:00:00Z",
+      "data": "2026-04-29",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 10,
+        "patrimonioAfetado": 588000,
+        "amostra": [
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 86000,
+            "conc": 7,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 80000,
+            "conc": 9,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 70000,
+            "conc": 7,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 60000,
+            "conc": 8,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c11",
+            "nome": "Cliente de Teste (envio)",
+            "valor": 60000,
+            "conc": 12,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c19",
+            "nome": "Renata Duarte",
+            "valor": 60000,
+            "conc": 9,
+            "tickers": [
+              "ABEV3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n17",
+      "titulo": "IPCA vem abaixo do esperado e anima mercado de juros",
+      "resumo": "Desinflação de bens dá alívio; curva de juros abre espaço para corte.",
+      "fonte": "Finance News",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-29T13:30:00Z",
+      "data": "2026-04-29",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n4",
+      "titulo": "Petrobras (PETR4) anuncia nova política de dividendos",
+      "resumo": "Mudança na distribuição divide opiniões; análise avalia impacto no dividend yield.",
+      "fonte": "Brazil Journal",
+      "categoria": "corporativo",
+      "tickers": [
+        "PETR4"
+      ],
+      "publicado": "2026-04-29T13:00:00Z",
+      "data": "2026-04-29",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 2,
+        "patrimonioAfetado": 170000,
+        "amostra": [
+          {
+            "id": "c12",
+            "nome": "Gustavo Andrade",
+            "valor": 90000,
+            "conc": 15,
+            "tickers": [
+              "PETR4"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 80000,
+            "conc": 10,
+            "tickers": [
+              "PETR4"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n16",
+      "titulo": "Dólar recua com fluxo estrangeiro para a bolsa brasileira",
+      "resumo": "Real se fortalece na sessão; análise comenta os drivers de curto prazo.",
+      "fonte": "Brazil Journal",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-29T12:30:00Z",
+      "data": "2026-04-29",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n3",
+      "titulo": "Itaú (ITUB4) entrega ROE recorde e supera projeções",
+      "resumo": "Rentabilidade surpreende e reforça a leitura construtiva sobre o setor bancário.",
+      "fonte": "Bloomberg",
+      "categoria": "corporativo",
+      "tickers": [
+        "ITUB4"
+      ],
+      "publicado": "2026-04-29T12:00:00Z",
+      "data": "2026-04-29",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 17,
+        "patrimonioAfetado": 2560000,
+        "amostra": [
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 300000,
+            "conc": 7,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 250000,
+            "conc": 14,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 231000,
+            "conc": 26,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 220000,
+            "conc": 23,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c4",
+            "nome": "Juliana Costa",
+            "valor": 200000,
+            "conc": 38,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c8",
+            "nome": "Nunes Comércio S.A.",
+            "valor": 180000,
+            "conc": 9,
+            "tickers": [
+              "ITUB4"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n15",
+      "titulo": "Petróleo dispara com tensão no Oriente Médio",
+      "resumo": "Brent avança e mexe com o humor dos mercados globais.",
+      "fonte": "Bloomberg",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-29T11:30:00Z",
+      "data": "2026-04-29",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n2",
+      "titulo": "PRIO3 avança com petróleo em alta e produção recorde no trimestre",
+      "resumo": "Produtora se beneficia do Brent elevado; relatório detalha alavancagem operacional.",
+      "fonte": "Infomoney",
+      "categoria": "corporativo",
+      "tickers": [
+        "PRIO3"
+      ],
+      "publicado": "2026-04-29T11:00:00Z",
+      "data": "2026-04-29",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 14,
+        "patrimonioAfetado": 2649000,
+        "amostra": [
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 384000,
+            "conc": 31,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 290000,
+            "conc": 40,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 279000,
+            "conc": 31,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 260000,
+            "conc": 32,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c8",
+            "nome": "Nunes Comércio S.A.",
+            "valor": 200000,
+            "conc": 10,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 200000,
+            "conc": 5,
+            "tickers": [
+              "PRIO3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n12",
+      "titulo": "Itaú (ITUB4) expande carteira de crédito com cautela",
+      "resumo": "Guidance de crédito em destaque; análise vê espaço para ROE alto persistir.",
+      "fonte": "Brazil Journal",
+      "categoria": "corporativo",
+      "tickers": [
+        "ITUB4"
+      ],
+      "publicado": "2026-04-29T11:00:00Z",
+      "data": "2026-04-29",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 17,
+        "patrimonioAfetado": 2560000,
+        "amostra": [
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 300000,
+            "conc": 7,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 250000,
+            "conc": 14,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 231000,
+            "conc": 26,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 220000,
+            "conc": 23,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c4",
+            "nome": "Juliana Costa",
+            "valor": 200000,
+            "conc": 38,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c8",
+            "nome": "Nunes Comércio S.A.",
+            "valor": 180000,
+            "conc": 9,
+            "tickers": [
+              "ITUB4"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n14",
+      "titulo": "Fed mantém juros e sinaliza cautela com inflação de serviços",
+      "resumo": "Powell reforça dependência de dados; dólar reage no exterior.",
+      "fonte": "Infomoney",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-29T10:30:00Z",
+      "data": "2026-04-29",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n1",
+      "titulo": "Vale (VALE3) reporta produção de minério do 1T abaixo do esperado",
+      "resumo": "Volume de minério de ferro aquém das estimativas pressiona a ação; análise revisa guidance.",
+      "fonte": "Finance News",
+      "categoria": "corporativo",
+      "tickers": [
+        "VALE3"
+      ],
+      "publicado": "2026-04-29T10:00:00Z",
+      "data": "2026-04-29",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 12,
+        "patrimonioAfetado": 2813000,
+        "amostra": [
+          {
+            "id": "c3",
+            "nome": "Tavares Participações Ltda",
+            "valor": 668000,
+            "conc": 20,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 400000,
+            "conc": 10,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 300000,
+            "conc": 16,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 240000,
+            "conc": 33,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 210000,
+            "conc": 17,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 200000,
+            "conc": 25,
+            "tickers": [
+              "VALE3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n11",
+      "titulo": "PRIO3 conclui aquisição de novo campo e amplia reservas",
+      "resumo": "Movimento reforça a estratégia de crescimento por M&A da produtora.",
+      "fonte": "Bloomberg",
+      "categoria": "corporativo",
+      "tickers": [
+        "PRIO3"
+      ],
+      "publicado": "2026-04-29T10:00:00Z",
+      "data": "2026-04-29",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 14,
+        "patrimonioAfetado": 2649000,
+        "amostra": [
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 384000,
+            "conc": 31,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 290000,
+            "conc": 40,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 279000,
+            "conc": 31,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 260000,
+            "conc": 32,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c8",
+            "nome": "Nunes Comércio S.A.",
+            "valor": 200000,
+            "conc": 10,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 200000,
+            "conc": 5,
+            "tickers": [
+              "PRIO3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n13",
+      "titulo": "Copom corta Selic em 0,25 p.p. em decisão vista como hawkish",
+      "resumo": "Comunicado mais duro que o esperado; mercado recalibra projeções de juros.",
+      "fonte": "Finance News",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-29T09:30:00Z",
+      "data": "2026-04-29",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n10",
+      "titulo": "Minério recua na China e pressiona Vale (VALE3)",
+      "resumo": "Demanda siderúrgica mais fraca traz cautela para as mineradoras.",
+      "fonte": "Infomoney",
+      "categoria": "corporativo",
+      "tickers": [
+        "VALE3"
+      ],
+      "publicado": "2026-04-29T09:00:00Z",
+      "data": "2026-04-29",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 12,
+        "patrimonioAfetado": 2813000,
+        "amostra": [
+          {
+            "id": "c3",
+            "nome": "Tavares Participações Ltda",
+            "valor": 668000,
+            "conc": 20,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 400000,
+            "conc": 10,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 300000,
+            "conc": 16,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 240000,
+            "conc": 33,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 210000,
+            "conc": 17,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 200000,
+            "conc": 25,
+            "tickers": [
+              "VALE3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n9",
+      "titulo": "Suzano (SUZB3) no radar com celulose em recuperação",
+      "resumo": "Preços internacionais melhoram a tese exportadora da companhia.",
+      "fonte": "Finance News",
+      "categoria": "corporativo",
+      "tickers": [
+        "SUZB3"
+      ],
+      "publicado": "2026-04-29T08:00:00Z",
+      "data": "2026-04-29",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 2,
+        "patrimonioAfetado": 290000,
+        "amostra": [
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 200000,
+            "conc": 11,
+            "tickers": [
+              "SUZB3"
+            ]
+          },
+          {
+            "id": "c15",
+            "nome": "Larissa Prado",
+            "valor": 90000,
+            "conc": 20,
+            "tickers": [
+              "SUZB3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n34",
+      "titulo": "Fed mantém juros e sinaliza cautela com inflação de serviços",
+      "resumo": "Powell reforça dependência de dados; dólar reage no exterior.",
+      "fonte": "Infomoney",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-28T18:30:00Z",
+      "data": "2026-04-28",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n33",
+      "titulo": "Copom corta Selic em 0,25 p.p. em decisão vista como hawkish",
+      "resumo": "Comunicado mais duro que o esperado; mercado recalibra projeções de juros.",
+      "fonte": "Finance News",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-28T17:30:00Z",
+      "data": "2026-04-28",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n28",
+      "titulo": "Banco do Brasil (BBAS3) surpreende com inadimplência controlada",
+      "resumo": "Carteira agro em foco; análise pondera riscos e atratividade do valuation.",
+      "fonte": "Brazil Journal",
+      "categoria": "corporativo",
+      "tickers": [
+        "BBAS3"
+      ],
+      "publicado": "2026-04-28T17:00:00Z",
+      "data": "2026-04-28",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 2,
+        "patrimonioAfetado": 190000,
+        "amostra": [
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 110000,
+            "conc": 12,
+            "tickers": [
+              "BBAS3"
+            ]
+          },
+          {
+            "id": "c19",
+            "nome": "Renata Duarte",
+            "valor": 80000,
+            "conc": 12,
+            "tickers": [
+              "BBAS3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n27",
+      "titulo": "Sabesp (SBSP3) mostra ganhos de eficiência pós-privatização",
+      "resumo": "Primeiros números operacionais animam; relatório revisa premissas de margem.",
+      "fonte": "Bloomberg",
+      "categoria": "corporativo",
+      "tickers": [
+        "SBSP3"
+      ],
+      "publicado": "2026-04-28T16:00:00Z",
+      "data": "2026-04-28",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 2,
+        "patrimonioAfetado": 60000,
+        "amostra": [
+          {
+            "id": "c14",
+            "nome": "Vinícius Tavares",
+            "valor": 35000,
+            "conc": 13,
+            "tickers": [
+              "SBSP3"
+            ]
+          },
+          {
+            "id": "c9",
+            "nome": "Rodrigo Faria",
+            "valor": 25000,
+            "conc": 8,
+            "tickers": [
+              "SBSP3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n26",
+      "titulo": "Itaúsa (ITSA4) negocia com desconto de holding acima da média histórica",
+      "resumo": "Assimetria favorável, segundo análise, com portfólio de participações resiliente.",
+      "fonte": "Infomoney",
+      "categoria": "corporativo",
+      "tickers": [
+        "ITSA4"
+      ],
+      "publicado": "2026-04-28T15:00:00Z",
+      "data": "2026-04-28",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 3,
+        "patrimonioAfetado": 295000,
+        "amostra": [
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 130000,
+            "conc": 14,
+            "tickers": [
+              "ITSA4"
+            ]
+          },
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 95000,
+            "conc": 8,
+            "tickers": [
+              "ITSA4"
+            ]
+          },
+          {
+            "id": "c19",
+            "nome": "Renata Duarte",
+            "valor": 70000,
+            "conc": 10,
+            "tickers": [
+              "ITSA4"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n25",
+      "titulo": "Ambev (ABEV3): volume fraco no trimestre preocupa mercado",
+      "resumo": "Crescimento e momentum decepcionam apesar da saúde financeira robusta.",
+      "fonte": "Finance News",
+      "categoria": "corporativo",
+      "tickers": [
+        "ABEV3"
+      ],
+      "publicado": "2026-04-28T14:00:00Z",
+      "data": "2026-04-28",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 10,
+        "patrimonioAfetado": 588000,
+        "amostra": [
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 86000,
+            "conc": 7,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 80000,
+            "conc": 9,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 70000,
+            "conc": 7,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 60000,
+            "conc": 8,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c11",
+            "nome": "Cliente de Teste (envio)",
+            "valor": 60000,
+            "conc": 12,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c19",
+            "nome": "Renata Duarte",
+            "valor": 60000,
+            "conc": 9,
+            "tickers": [
+              "ABEV3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n24",
+      "titulo": "Petrobras (PETR4) anuncia nova política de dividendos",
+      "resumo": "Mudança na distribuição divide opiniões; análise avalia impacto no dividend yield.",
+      "fonte": "Brazil Journal",
+      "categoria": "corporativo",
+      "tickers": [
+        "PETR4"
+      ],
+      "publicado": "2026-04-28T13:00:00Z",
+      "data": "2026-04-28",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 2,
+        "patrimonioAfetado": 170000,
+        "amostra": [
+          {
+            "id": "c12",
+            "nome": "Gustavo Andrade",
+            "valor": 90000,
+            "conc": 15,
+            "tickers": [
+              "PETR4"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 80000,
+            "conc": 10,
+            "tickers": [
+              "PETR4"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n40",
+      "titulo": "China anuncia novo pacote de estímulo à economia",
+      "resumo": "Medidas animam mercados de commodities e exportadoras globais.",
+      "fonte": "Brazil Journal",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-28T12:30:00Z",
+      "data": "2026-04-28",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n23",
+      "titulo": "Itaú (ITUB4) entrega ROE recorde e supera projeções",
+      "resumo": "Rentabilidade surpreende e reforça a leitura construtiva sobre o setor bancário.",
+      "fonte": "Bloomberg",
+      "categoria": "corporativo",
+      "tickers": [
+        "ITUB4"
+      ],
+      "publicado": "2026-04-28T12:00:00Z",
+      "data": "2026-04-28",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 17,
+        "patrimonioAfetado": 2560000,
+        "amostra": [
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 300000,
+            "conc": 7,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 250000,
+            "conc": 14,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 231000,
+            "conc": 26,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 220000,
+            "conc": 23,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c4",
+            "nome": "Juliana Costa",
+            "valor": 200000,
+            "conc": 38,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c8",
+            "nome": "Nunes Comércio S.A.",
+            "valor": 180000,
+            "conc": 9,
+            "tickers": [
+              "ITUB4"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n39",
+      "titulo": "Bolsa fecha em alta puxada por commodities",
+      "resumo": "Ibovespa acompanha exterior positivo; giro financeiro sobe.",
+      "fonte": "Bloomberg",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-28T11:30:00Z",
+      "data": "2026-04-28",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n22",
+      "titulo": "PRIO3 avança com petróleo em alta e produção recorde no trimestre",
+      "resumo": "Produtora se beneficia do Brent elevado; relatório detalha alavancagem operacional.",
+      "fonte": "Infomoney",
+      "categoria": "corporativo",
+      "tickers": [
+        "PRIO3"
+      ],
+      "publicado": "2026-04-28T11:00:00Z",
+      "data": "2026-04-28",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 14,
+        "patrimonioAfetado": 2649000,
+        "amostra": [
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 384000,
+            "conc": 31,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 290000,
+            "conc": 40,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 279000,
+            "conc": 31,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 260000,
+            "conc": 32,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c8",
+            "nome": "Nunes Comércio S.A.",
+            "valor": 200000,
+            "conc": 10,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 200000,
+            "conc": 5,
+            "tickers": [
+              "PRIO3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n32",
+      "titulo": "Itaú (ITUB4) expande carteira de crédito com cautela",
+      "resumo": "Guidance de crédito em destaque; análise vê espaço para ROE alto persistir.",
+      "fonte": "Brazil Journal",
+      "categoria": "corporativo",
+      "tickers": [
+        "ITUB4"
+      ],
+      "publicado": "2026-04-28T11:00:00Z",
+      "data": "2026-04-28",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 17,
+        "patrimonioAfetado": 2560000,
+        "amostra": [
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 300000,
+            "conc": 7,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 250000,
+            "conc": 14,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 231000,
+            "conc": 26,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 220000,
+            "conc": 23,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c4",
+            "nome": "Juliana Costa",
+            "valor": 200000,
+            "conc": 38,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c8",
+            "nome": "Nunes Comércio S.A.",
+            "valor": 180000,
+            "conc": 9,
+            "tickers": [
+              "ITUB4"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n38",
+      "titulo": "Boletim Focus revisa projeção de PIB para cima",
+      "resumo": "Economistas ficam mais otimistas com atividade no segundo semestre.",
+      "fonte": "Infomoney",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-28T10:30:00Z",
+      "data": "2026-04-28",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n21",
+      "titulo": "Vale (VALE3) reporta produção de minério do 1T abaixo do esperado",
+      "resumo": "Volume de minério de ferro aquém das estimativas pressiona a ação; análise revisa guidance.",
+      "fonte": "Finance News",
+      "categoria": "corporativo",
+      "tickers": [
+        "VALE3"
+      ],
+      "publicado": "2026-04-28T10:00:00Z",
+      "data": "2026-04-28",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 12,
+        "patrimonioAfetado": 2813000,
+        "amostra": [
+          {
+            "id": "c3",
+            "nome": "Tavares Participações Ltda",
+            "valor": 668000,
+            "conc": 20,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 400000,
+            "conc": 10,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 300000,
+            "conc": 16,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 240000,
+            "conc": 33,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 210000,
+            "conc": 17,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 200000,
+            "conc": 25,
+            "tickers": [
+              "VALE3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n31",
+      "titulo": "PRIO3 conclui aquisição de novo campo e amplia reservas",
+      "resumo": "Movimento reforça a estratégia de crescimento por M&A da produtora.",
+      "fonte": "Bloomberg",
+      "categoria": "corporativo",
+      "tickers": [
+        "PRIO3"
+      ],
+      "publicado": "2026-04-28T10:00:00Z",
+      "data": "2026-04-28",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 14,
+        "patrimonioAfetado": 2649000,
+        "amostra": [
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 384000,
+            "conc": 31,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 290000,
+            "conc": 40,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 279000,
+            "conc": 31,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 260000,
+            "conc": 32,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c8",
+            "nome": "Nunes Comércio S.A.",
+            "valor": 200000,
+            "conc": 10,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 200000,
+            "conc": 5,
+            "tickers": [
+              "PRIO3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n37",
+      "titulo": "IPCA vem abaixo do esperado e anima mercado de juros",
+      "resumo": "Desinflação de bens dá alívio; curva de juros abre espaço para corte.",
+      "fonte": "Finance News",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-28T09:30:00Z",
+      "data": "2026-04-28",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n30",
+      "titulo": "Minério recua na China e pressiona Vale (VALE3)",
+      "resumo": "Demanda siderúrgica mais fraca traz cautela para as mineradoras.",
+      "fonte": "Infomoney",
+      "categoria": "corporativo",
+      "tickers": [
+        "VALE3"
+      ],
+      "publicado": "2026-04-28T09:00:00Z",
+      "data": "2026-04-28",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 12,
+        "patrimonioAfetado": 2813000,
+        "amostra": [
+          {
+            "id": "c3",
+            "nome": "Tavares Participações Ltda",
+            "valor": 668000,
+            "conc": 20,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 400000,
+            "conc": 10,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 300000,
+            "conc": 16,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 240000,
+            "conc": 33,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 210000,
+            "conc": 17,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 200000,
+            "conc": 25,
+            "tickers": [
+              "VALE3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n36",
+      "titulo": "Dólar recua com fluxo estrangeiro para a bolsa brasileira",
+      "resumo": "Real se fortalece na sessão; análise comenta os drivers de curto prazo.",
+      "fonte": "Brazil Journal",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-28T08:30:00Z",
+      "data": "2026-04-28",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n29",
+      "titulo": "Suzano (SUZB3) no radar com celulose em recuperação",
+      "resumo": "Preços internacionais melhoram a tese exportadora da companhia.",
+      "fonte": "Finance News",
+      "categoria": "corporativo",
+      "tickers": [
+        "SUZB3"
+      ],
+      "publicado": "2026-04-28T08:00:00Z",
+      "data": "2026-04-28",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 2,
+        "patrimonioAfetado": 290000,
+        "amostra": [
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 200000,
+            "conc": 11,
+            "tickers": [
+              "SUZB3"
+            ]
+          },
+          {
+            "id": "c15",
+            "nome": "Larissa Prado",
+            "valor": 90000,
+            "conc": 20,
+            "tickers": [
+              "SUZB3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n35",
+      "titulo": "Petróleo dispara com tensão no Oriente Médio",
+      "resumo": "Brent avança e mexe com o humor dos mercados globais.",
+      "fonte": "Bloomberg",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-28T07:30:00Z",
+      "data": "2026-04-28",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n58",
+      "titulo": "Boletim Focus revisa projeção de PIB para cima",
+      "resumo": "Economistas ficam mais otimistas com atividade no segundo semestre.",
+      "fonte": "Infomoney",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-27T18:30:00Z",
+      "data": "2026-04-27",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n57",
+      "titulo": "IPCA vem abaixo do esperado e anima mercado de juros",
+      "resumo": "Desinflação de bens dá alívio; curva de juros abre espaço para corte.",
+      "fonte": "Finance News",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-27T17:30:00Z",
+      "data": "2026-04-27",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n48",
+      "titulo": "Banco do Brasil (BBAS3) surpreende com inadimplência controlada",
+      "resumo": "Carteira agro em foco; análise pondera riscos e atratividade do valuation.",
+      "fonte": "Brazil Journal",
+      "categoria": "corporativo",
+      "tickers": [
+        "BBAS3"
+      ],
+      "publicado": "2026-04-27T17:00:00Z",
+      "data": "2026-04-27",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 2,
+        "patrimonioAfetado": 190000,
+        "amostra": [
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 110000,
+            "conc": 12,
+            "tickers": [
+              "BBAS3"
+            ]
+          },
+          {
+            "id": "c19",
+            "nome": "Renata Duarte",
+            "valor": 80000,
+            "conc": 12,
+            "tickers": [
+              "BBAS3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n56",
+      "titulo": "Dólar recua com fluxo estrangeiro para a bolsa brasileira",
+      "resumo": "Real se fortalece na sessão; análise comenta os drivers de curto prazo.",
+      "fonte": "Brazil Journal",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-27T16:30:00Z",
+      "data": "2026-04-27",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n47",
+      "titulo": "Sabesp (SBSP3) mostra ganhos de eficiência pós-privatização",
+      "resumo": "Primeiros números operacionais animam; relatório revisa premissas de margem.",
+      "fonte": "Bloomberg",
+      "categoria": "corporativo",
+      "tickers": [
+        "SBSP3"
+      ],
+      "publicado": "2026-04-27T16:00:00Z",
+      "data": "2026-04-27",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 2,
+        "patrimonioAfetado": 60000,
+        "amostra": [
+          {
+            "id": "c14",
+            "nome": "Vinícius Tavares",
+            "valor": 35000,
+            "conc": 13,
+            "tickers": [
+              "SBSP3"
+            ]
+          },
+          {
+            "id": "c9",
+            "nome": "Rodrigo Faria",
+            "valor": 25000,
+            "conc": 8,
+            "tickers": [
+              "SBSP3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n55",
+      "titulo": "Petróleo dispara com tensão no Oriente Médio",
+      "resumo": "Brent avança e mexe com o humor dos mercados globais.",
+      "fonte": "Bloomberg",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-27T15:30:00Z",
+      "data": "2026-04-27",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n46",
+      "titulo": "Itaúsa (ITSA4) negocia com desconto de holding acima da média histórica",
+      "resumo": "Assimetria favorável, segundo análise, com portfólio de participações resiliente.",
+      "fonte": "Infomoney",
+      "categoria": "corporativo",
+      "tickers": [
+        "ITSA4"
+      ],
+      "publicado": "2026-04-27T15:00:00Z",
+      "data": "2026-04-27",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 3,
+        "patrimonioAfetado": 295000,
+        "amostra": [
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 130000,
+            "conc": 14,
+            "tickers": [
+              "ITSA4"
+            ]
+          },
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 95000,
+            "conc": 8,
+            "tickers": [
+              "ITSA4"
+            ]
+          },
+          {
+            "id": "c19",
+            "nome": "Renata Duarte",
+            "valor": 70000,
+            "conc": 10,
+            "tickers": [
+              "ITSA4"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n54",
+      "titulo": "Fed mantém juros e sinaliza cautela com inflação de serviços",
+      "resumo": "Powell reforça dependência de dados; dólar reage no exterior.",
+      "fonte": "Infomoney",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-27T14:30:00Z",
+      "data": "2026-04-27",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n45",
+      "titulo": "Ambev (ABEV3): volume fraco no trimestre preocupa mercado",
+      "resumo": "Crescimento e momentum decepcionam apesar da saúde financeira robusta.",
+      "fonte": "Finance News",
+      "categoria": "corporativo",
+      "tickers": [
+        "ABEV3"
+      ],
+      "publicado": "2026-04-27T14:00:00Z",
+      "data": "2026-04-27",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 10,
+        "patrimonioAfetado": 588000,
+        "amostra": [
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 86000,
+            "conc": 7,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 80000,
+            "conc": 9,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 70000,
+            "conc": 7,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 60000,
+            "conc": 8,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c11",
+            "nome": "Cliente de Teste (envio)",
+            "valor": 60000,
+            "conc": 12,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c19",
+            "nome": "Renata Duarte",
+            "valor": 60000,
+            "conc": 9,
+            "tickers": [
+              "ABEV3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n53",
+      "titulo": "Copom corta Selic em 0,25 p.p. em decisão vista como hawkish",
+      "resumo": "Comunicado mais duro que o esperado; mercado recalibra projeções de juros.",
+      "fonte": "Finance News",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-27T13:30:00Z",
+      "data": "2026-04-27",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n44",
+      "titulo": "Petrobras (PETR4) anuncia nova política de dividendos",
+      "resumo": "Mudança na distribuição divide opiniões; análise avalia impacto no dividend yield.",
+      "fonte": "Brazil Journal",
+      "categoria": "corporativo",
+      "tickers": [
+        "PETR4"
+      ],
+      "publicado": "2026-04-27T13:00:00Z",
+      "data": "2026-04-27",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 2,
+        "patrimonioAfetado": 170000,
+        "amostra": [
+          {
+            "id": "c12",
+            "nome": "Gustavo Andrade",
+            "valor": 90000,
+            "conc": 15,
+            "tickers": [
+              "PETR4"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 80000,
+            "conc": 10,
+            "tickers": [
+              "PETR4"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n43",
+      "titulo": "Itaú (ITUB4) entrega ROE recorde e supera projeções",
+      "resumo": "Rentabilidade surpreende e reforça a leitura construtiva sobre o setor bancário.",
+      "fonte": "Bloomberg",
+      "categoria": "corporativo",
+      "tickers": [
+        "ITUB4"
+      ],
+      "publicado": "2026-04-27T12:00:00Z",
+      "data": "2026-04-27",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 17,
+        "patrimonioAfetado": 2560000,
+        "amostra": [
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 300000,
+            "conc": 7,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 250000,
+            "conc": 14,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 231000,
+            "conc": 26,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 220000,
+            "conc": 23,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c4",
+            "nome": "Juliana Costa",
+            "valor": 200000,
+            "conc": 38,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c8",
+            "nome": "Nunes Comércio S.A.",
+            "valor": 180000,
+            "conc": 9,
+            "tickers": [
+              "ITUB4"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n42",
+      "titulo": "PRIO3 avança com petróleo em alta e produção recorde no trimestre",
+      "resumo": "Produtora se beneficia do Brent elevado; relatório detalha alavancagem operacional.",
+      "fonte": "Infomoney",
+      "categoria": "corporativo",
+      "tickers": [
+        "PRIO3"
+      ],
+      "publicado": "2026-04-27T11:00:00Z",
+      "data": "2026-04-27",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 14,
+        "patrimonioAfetado": 2649000,
+        "amostra": [
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 384000,
+            "conc": 31,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 290000,
+            "conc": 40,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 279000,
+            "conc": 31,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 260000,
+            "conc": 32,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c8",
+            "nome": "Nunes Comércio S.A.",
+            "valor": 200000,
+            "conc": 10,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 200000,
+            "conc": 5,
+            "tickers": [
+              "PRIO3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n52",
+      "titulo": "Itaú (ITUB4) expande carteira de crédito com cautela",
+      "resumo": "Guidance de crédito em destaque; análise vê espaço para ROE alto persistir.",
+      "fonte": "Brazil Journal",
+      "categoria": "corporativo",
+      "tickers": [
+        "ITUB4"
+      ],
+      "publicado": "2026-04-27T11:00:00Z",
+      "data": "2026-04-27",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 17,
+        "patrimonioAfetado": 2560000,
+        "amostra": [
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 300000,
+            "conc": 7,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 250000,
+            "conc": 14,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 231000,
+            "conc": 26,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 220000,
+            "conc": 23,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c4",
+            "nome": "Juliana Costa",
+            "valor": 200000,
+            "conc": 38,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c8",
+            "nome": "Nunes Comércio S.A.",
+            "valor": 180000,
+            "conc": 9,
+            "tickers": [
+              "ITUB4"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n41",
+      "titulo": "Vale (VALE3) reporta produção de minério do 1T abaixo do esperado",
+      "resumo": "Volume de minério de ferro aquém das estimativas pressiona a ação; análise revisa guidance.",
+      "fonte": "Finance News",
+      "categoria": "corporativo",
+      "tickers": [
+        "VALE3"
+      ],
+      "publicado": "2026-04-27T10:00:00Z",
+      "data": "2026-04-27",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 12,
+        "patrimonioAfetado": 2813000,
+        "amostra": [
+          {
+            "id": "c3",
+            "nome": "Tavares Participações Ltda",
+            "valor": 668000,
+            "conc": 20,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 400000,
+            "conc": 10,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 300000,
+            "conc": 16,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 240000,
+            "conc": 33,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 210000,
+            "conc": 17,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 200000,
+            "conc": 25,
+            "tickers": [
+              "VALE3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n51",
+      "titulo": "PRIO3 conclui aquisição de novo campo e amplia reservas",
+      "resumo": "Movimento reforça a estratégia de crescimento por M&A da produtora.",
+      "fonte": "Bloomberg",
+      "categoria": "corporativo",
+      "tickers": [
+        "PRIO3"
+      ],
+      "publicado": "2026-04-27T10:00:00Z",
+      "data": "2026-04-27",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 14,
+        "patrimonioAfetado": 2649000,
+        "amostra": [
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 384000,
+            "conc": 31,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 290000,
+            "conc": 40,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 279000,
+            "conc": 31,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 260000,
+            "conc": 32,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c8",
+            "nome": "Nunes Comércio S.A.",
+            "valor": 200000,
+            "conc": 10,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 200000,
+            "conc": 5,
+            "tickers": [
+              "PRIO3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n50",
+      "titulo": "Minério recua na China e pressiona Vale (VALE3)",
+      "resumo": "Demanda siderúrgica mais fraca traz cautela para as mineradoras.",
+      "fonte": "Infomoney",
+      "categoria": "corporativo",
+      "tickers": [
+        "VALE3"
+      ],
+      "publicado": "2026-04-27T09:00:00Z",
+      "data": "2026-04-27",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 12,
+        "patrimonioAfetado": 2813000,
+        "amostra": [
+          {
+            "id": "c3",
+            "nome": "Tavares Participações Ltda",
+            "valor": 668000,
+            "conc": 20,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 400000,
+            "conc": 10,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 300000,
+            "conc": 16,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 240000,
+            "conc": 33,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 210000,
+            "conc": 17,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 200000,
+            "conc": 25,
+            "tickers": [
+              "VALE3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n60",
+      "titulo": "China anuncia novo pacote de estímulo à economia",
+      "resumo": "Medidas animam mercados de commodities e exportadoras globais.",
+      "fonte": "Brazil Journal",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-27T08:30:00Z",
+      "data": "2026-04-27",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n49",
+      "titulo": "Suzano (SUZB3) no radar com celulose em recuperação",
+      "resumo": "Preços internacionais melhoram a tese exportadora da companhia.",
+      "fonte": "Finance News",
+      "categoria": "corporativo",
+      "tickers": [
+        "SUZB3"
+      ],
+      "publicado": "2026-04-27T08:00:00Z",
+      "data": "2026-04-27",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 2,
+        "patrimonioAfetado": 290000,
+        "amostra": [
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 200000,
+            "conc": 11,
+            "tickers": [
+              "SUZB3"
+            ]
+          },
+          {
+            "id": "c15",
+            "nome": "Larissa Prado",
+            "valor": 90000,
+            "conc": 20,
+            "tickers": [
+              "SUZB3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n59",
+      "titulo": "Bolsa fecha em alta puxada por commodities",
+      "resumo": "Ibovespa acompanha exterior positivo; giro financeiro sobe.",
+      "fonte": "Bloomberg",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-27T07:30:00Z",
+      "data": "2026-04-27",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n68",
+      "titulo": "Banco do Brasil (BBAS3) surpreende com inadimplência controlada",
+      "resumo": "Carteira agro em foco; análise pondera riscos e atratividade do valuation.",
+      "fonte": "Brazil Journal",
+      "categoria": "corporativo",
+      "tickers": [
+        "BBAS3"
+      ],
+      "publicado": "2026-04-26T17:00:00Z",
+      "data": "2026-04-26",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 2,
+        "patrimonioAfetado": 190000,
+        "amostra": [
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 110000,
+            "conc": 12,
+            "tickers": [
+              "BBAS3"
+            ]
+          },
+          {
+            "id": "c19",
+            "nome": "Renata Duarte",
+            "valor": 80000,
+            "conc": 12,
+            "tickers": [
+              "BBAS3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n80",
+      "titulo": "China anuncia novo pacote de estímulo à economia",
+      "resumo": "Medidas animam mercados de commodities e exportadoras globais.",
+      "fonte": "Brazil Journal",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-26T16:30:00Z",
+      "data": "2026-04-26",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n67",
+      "titulo": "Sabesp (SBSP3) mostra ganhos de eficiência pós-privatização",
+      "resumo": "Primeiros números operacionais animam; relatório revisa premissas de margem.",
+      "fonte": "Bloomberg",
+      "categoria": "corporativo",
+      "tickers": [
+        "SBSP3"
+      ],
+      "publicado": "2026-04-26T16:00:00Z",
+      "data": "2026-04-26",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 2,
+        "patrimonioAfetado": 60000,
+        "amostra": [
+          {
+            "id": "c14",
+            "nome": "Vinícius Tavares",
+            "valor": 35000,
+            "conc": 13,
+            "tickers": [
+              "SBSP3"
+            ]
+          },
+          {
+            "id": "c9",
+            "nome": "Rodrigo Faria",
+            "valor": 25000,
+            "conc": 8,
+            "tickers": [
+              "SBSP3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n79",
+      "titulo": "Bolsa fecha em alta puxada por commodities",
+      "resumo": "Ibovespa acompanha exterior positivo; giro financeiro sobe.",
+      "fonte": "Bloomberg",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-26T15:30:00Z",
+      "data": "2026-04-26",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n66",
+      "titulo": "Itaúsa (ITSA4) negocia com desconto de holding acima da média histórica",
+      "resumo": "Assimetria favorável, segundo análise, com portfólio de participações resiliente.",
+      "fonte": "Infomoney",
+      "categoria": "corporativo",
+      "tickers": [
+        "ITSA4"
+      ],
+      "publicado": "2026-04-26T15:00:00Z",
+      "data": "2026-04-26",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 3,
+        "patrimonioAfetado": 295000,
+        "amostra": [
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 130000,
+            "conc": 14,
+            "tickers": [
+              "ITSA4"
+            ]
+          },
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 95000,
+            "conc": 8,
+            "tickers": [
+              "ITSA4"
+            ]
+          },
+          {
+            "id": "c19",
+            "nome": "Renata Duarte",
+            "valor": 70000,
+            "conc": 10,
+            "tickers": [
+              "ITSA4"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n78",
+      "titulo": "Boletim Focus revisa projeção de PIB para cima",
+      "resumo": "Economistas ficam mais otimistas com atividade no segundo semestre.",
+      "fonte": "Infomoney",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-26T14:30:00Z",
+      "data": "2026-04-26",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n65",
+      "titulo": "Ambev (ABEV3): volume fraco no trimestre preocupa mercado",
+      "resumo": "Crescimento e momentum decepcionam apesar da saúde financeira robusta.",
+      "fonte": "Finance News",
+      "categoria": "corporativo",
+      "tickers": [
+        "ABEV3"
+      ],
+      "publicado": "2026-04-26T14:00:00Z",
+      "data": "2026-04-26",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 10,
+        "patrimonioAfetado": 588000,
+        "amostra": [
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 86000,
+            "conc": 7,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 80000,
+            "conc": 9,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 70000,
+            "conc": 7,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 60000,
+            "conc": 8,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c11",
+            "nome": "Cliente de Teste (envio)",
+            "valor": 60000,
+            "conc": 12,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c19",
+            "nome": "Renata Duarte",
+            "valor": 60000,
+            "conc": 9,
+            "tickers": [
+              "ABEV3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n77",
+      "titulo": "IPCA vem abaixo do esperado e anima mercado de juros",
+      "resumo": "Desinflação de bens dá alívio; curva de juros abre espaço para corte.",
+      "fonte": "Finance News",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-26T13:30:00Z",
+      "data": "2026-04-26",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n64",
+      "titulo": "Petrobras (PETR4) anuncia nova política de dividendos",
+      "resumo": "Mudança na distribuição divide opiniões; análise avalia impacto no dividend yield.",
+      "fonte": "Brazil Journal",
+      "categoria": "corporativo",
+      "tickers": [
+        "PETR4"
+      ],
+      "publicado": "2026-04-26T13:00:00Z",
+      "data": "2026-04-26",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 2,
+        "patrimonioAfetado": 170000,
+        "amostra": [
+          {
+            "id": "c12",
+            "nome": "Gustavo Andrade",
+            "valor": 90000,
+            "conc": 15,
+            "tickers": [
+              "PETR4"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 80000,
+            "conc": 10,
+            "tickers": [
+              "PETR4"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n76",
+      "titulo": "Dólar recua com fluxo estrangeiro para a bolsa brasileira",
+      "resumo": "Real se fortalece na sessão; análise comenta os drivers de curto prazo.",
+      "fonte": "Brazil Journal",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-26T12:30:00Z",
+      "data": "2026-04-26",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n63",
+      "titulo": "Itaú (ITUB4) entrega ROE recorde e supera projeções",
+      "resumo": "Rentabilidade surpreende e reforça a leitura construtiva sobre o setor bancário.",
+      "fonte": "Bloomberg",
+      "categoria": "corporativo",
+      "tickers": [
+        "ITUB4"
+      ],
+      "publicado": "2026-04-26T12:00:00Z",
+      "data": "2026-04-26",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 17,
+        "patrimonioAfetado": 2560000,
+        "amostra": [
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 300000,
+            "conc": 7,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 250000,
+            "conc": 14,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 231000,
+            "conc": 26,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 220000,
+            "conc": 23,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c4",
+            "nome": "Juliana Costa",
+            "valor": 200000,
+            "conc": 38,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c8",
+            "nome": "Nunes Comércio S.A.",
+            "valor": 180000,
+            "conc": 9,
+            "tickers": [
+              "ITUB4"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n75",
+      "titulo": "Petróleo dispara com tensão no Oriente Médio",
+      "resumo": "Brent avança e mexe com o humor dos mercados globais.",
+      "fonte": "Bloomberg",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-26T11:30:00Z",
+      "data": "2026-04-26",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n62",
+      "titulo": "PRIO3 avança com petróleo em alta e produção recorde no trimestre",
+      "resumo": "Produtora se beneficia do Brent elevado; relatório detalha alavancagem operacional.",
+      "fonte": "Infomoney",
+      "categoria": "corporativo",
+      "tickers": [
+        "PRIO3"
+      ],
+      "publicado": "2026-04-26T11:00:00Z",
+      "data": "2026-04-26",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 14,
+        "patrimonioAfetado": 2649000,
+        "amostra": [
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 384000,
+            "conc": 31,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 290000,
+            "conc": 40,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 279000,
+            "conc": 31,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 260000,
+            "conc": 32,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c8",
+            "nome": "Nunes Comércio S.A.",
+            "valor": 200000,
+            "conc": 10,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 200000,
+            "conc": 5,
+            "tickers": [
+              "PRIO3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n72",
+      "titulo": "Itaú (ITUB4) expande carteira de crédito com cautela",
+      "resumo": "Guidance de crédito em destaque; análise vê espaço para ROE alto persistir.",
+      "fonte": "Brazil Journal",
+      "categoria": "corporativo",
+      "tickers": [
+        "ITUB4"
+      ],
+      "publicado": "2026-04-26T11:00:00Z",
+      "data": "2026-04-26",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 17,
+        "patrimonioAfetado": 2560000,
+        "amostra": [
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 300000,
+            "conc": 7,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 250000,
+            "conc": 14,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 231000,
+            "conc": 26,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 220000,
+            "conc": 23,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c4",
+            "nome": "Juliana Costa",
+            "valor": 200000,
+            "conc": 38,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c8",
+            "nome": "Nunes Comércio S.A.",
+            "valor": 180000,
+            "conc": 9,
+            "tickers": [
+              "ITUB4"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n74",
+      "titulo": "Fed mantém juros e sinaliza cautela com inflação de serviços",
+      "resumo": "Powell reforça dependência de dados; dólar reage no exterior.",
+      "fonte": "Infomoney",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-26T10:30:00Z",
+      "data": "2026-04-26",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n61",
+      "titulo": "Vale (VALE3) reporta produção de minério do 1T abaixo do esperado",
+      "resumo": "Volume de minério de ferro aquém das estimativas pressiona a ação; análise revisa guidance.",
+      "fonte": "Finance News",
+      "categoria": "corporativo",
+      "tickers": [
+        "VALE3"
+      ],
+      "publicado": "2026-04-26T10:00:00Z",
+      "data": "2026-04-26",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 12,
+        "patrimonioAfetado": 2813000,
+        "amostra": [
+          {
+            "id": "c3",
+            "nome": "Tavares Participações Ltda",
+            "valor": 668000,
+            "conc": 20,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 400000,
+            "conc": 10,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 300000,
+            "conc": 16,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 240000,
+            "conc": 33,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 210000,
+            "conc": 17,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 200000,
+            "conc": 25,
+            "tickers": [
+              "VALE3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n71",
+      "titulo": "PRIO3 conclui aquisição de novo campo e amplia reservas",
+      "resumo": "Movimento reforça a estratégia de crescimento por M&A da produtora.",
+      "fonte": "Bloomberg",
+      "categoria": "corporativo",
+      "tickers": [
+        "PRIO3"
+      ],
+      "publicado": "2026-04-26T10:00:00Z",
+      "data": "2026-04-26",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 14,
+        "patrimonioAfetado": 2649000,
+        "amostra": [
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 384000,
+            "conc": 31,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 290000,
+            "conc": 40,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 279000,
+            "conc": 31,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 260000,
+            "conc": 32,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c8",
+            "nome": "Nunes Comércio S.A.",
+            "valor": 200000,
+            "conc": 10,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 200000,
+            "conc": 5,
+            "tickers": [
+              "PRIO3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n73",
+      "titulo": "Copom corta Selic em 0,25 p.p. em decisão vista como hawkish",
+      "resumo": "Comunicado mais duro que o esperado; mercado recalibra projeções de juros.",
+      "fonte": "Finance News",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-26T09:30:00Z",
+      "data": "2026-04-26",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n70",
+      "titulo": "Minério recua na China e pressiona Vale (VALE3)",
+      "resumo": "Demanda siderúrgica mais fraca traz cautela para as mineradoras.",
+      "fonte": "Infomoney",
+      "categoria": "corporativo",
+      "tickers": [
+        "VALE3"
+      ],
+      "publicado": "2026-04-26T09:00:00Z",
+      "data": "2026-04-26",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 12,
+        "patrimonioAfetado": 2813000,
+        "amostra": [
+          {
+            "id": "c3",
+            "nome": "Tavares Participações Ltda",
+            "valor": 668000,
+            "conc": 20,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 400000,
+            "conc": 10,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 300000,
+            "conc": 16,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 240000,
+            "conc": 33,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 210000,
+            "conc": 17,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 200000,
+            "conc": 25,
+            "tickers": [
+              "VALE3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n69",
+      "titulo": "Suzano (SUZB3) no radar com celulose em recuperação",
+      "resumo": "Preços internacionais melhoram a tese exportadora da companhia.",
+      "fonte": "Finance News",
+      "categoria": "corporativo",
+      "tickers": [
+        "SUZB3"
+      ],
+      "publicado": "2026-04-26T08:00:00Z",
+      "data": "2026-04-26",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 2,
+        "patrimonioAfetado": 290000,
+        "amostra": [
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 200000,
+            "conc": 11,
+            "tickers": [
+              "SUZB3"
+            ]
+          },
+          {
+            "id": "c15",
+            "nome": "Larissa Prado",
+            "valor": 90000,
+            "conc": 20,
+            "tickers": [
+              "SUZB3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n94",
+      "titulo": "Fed mantém juros e sinaliza cautela com inflação de serviços",
+      "resumo": "Powell reforça dependência de dados; dólar reage no exterior.",
+      "fonte": "Infomoney",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-25T18:30:00Z",
+      "data": "2026-04-25",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n93",
+      "titulo": "Copom corta Selic em 0,25 p.p. em decisão vista como hawkish",
+      "resumo": "Comunicado mais duro que o esperado; mercado recalibra projeções de juros.",
+      "fonte": "Finance News",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-25T17:30:00Z",
+      "data": "2026-04-25",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n88",
+      "titulo": "Banco do Brasil (BBAS3) surpreende com inadimplência controlada",
+      "resumo": "Carteira agro em foco; análise pondera riscos e atratividade do valuation.",
+      "fonte": "Brazil Journal",
+      "categoria": "corporativo",
+      "tickers": [
+        "BBAS3"
+      ],
+      "publicado": "2026-04-25T17:00:00Z",
+      "data": "2026-04-25",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 2,
+        "patrimonioAfetado": 190000,
+        "amostra": [
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 110000,
+            "conc": 12,
+            "tickers": [
+              "BBAS3"
+            ]
+          },
+          {
+            "id": "c19",
+            "nome": "Renata Duarte",
+            "valor": 80000,
+            "conc": 12,
+            "tickers": [
+              "BBAS3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n87",
+      "titulo": "Sabesp (SBSP3) mostra ganhos de eficiência pós-privatização",
+      "resumo": "Primeiros números operacionais animam; relatório revisa premissas de margem.",
+      "fonte": "Bloomberg",
+      "categoria": "corporativo",
+      "tickers": [
+        "SBSP3"
+      ],
+      "publicado": "2026-04-25T16:00:00Z",
+      "data": "2026-04-25",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 2,
+        "patrimonioAfetado": 60000,
+        "amostra": [
+          {
+            "id": "c14",
+            "nome": "Vinícius Tavares",
+            "valor": 35000,
+            "conc": 13,
+            "tickers": [
+              "SBSP3"
+            ]
+          },
+          {
+            "id": "c9",
+            "nome": "Rodrigo Faria",
+            "valor": 25000,
+            "conc": 8,
+            "tickers": [
+              "SBSP3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n86",
+      "titulo": "Itaúsa (ITSA4) negocia com desconto de holding acima da média histórica",
+      "resumo": "Assimetria favorável, segundo análise, com portfólio de participações resiliente.",
+      "fonte": "Infomoney",
+      "categoria": "corporativo",
+      "tickers": [
+        "ITSA4"
+      ],
+      "publicado": "2026-04-25T15:00:00Z",
+      "data": "2026-04-25",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 3,
+        "patrimonioAfetado": 295000,
+        "amostra": [
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 130000,
+            "conc": 14,
+            "tickers": [
+              "ITSA4"
+            ]
+          },
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 95000,
+            "conc": 8,
+            "tickers": [
+              "ITSA4"
+            ]
+          },
+          {
+            "id": "c19",
+            "nome": "Renata Duarte",
+            "valor": 70000,
+            "conc": 10,
+            "tickers": [
+              "ITSA4"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n85",
+      "titulo": "Ambev (ABEV3): volume fraco no trimestre preocupa mercado",
+      "resumo": "Crescimento e momentum decepcionam apesar da saúde financeira robusta.",
+      "fonte": "Finance News",
+      "categoria": "corporativo",
+      "tickers": [
+        "ABEV3"
+      ],
+      "publicado": "2026-04-25T14:00:00Z",
+      "data": "2026-04-25",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 10,
+        "patrimonioAfetado": 588000,
+        "amostra": [
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 86000,
+            "conc": 7,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 80000,
+            "conc": 9,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 70000,
+            "conc": 7,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 60000,
+            "conc": 8,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c11",
+            "nome": "Cliente de Teste (envio)",
+            "valor": 60000,
+            "conc": 12,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c19",
+            "nome": "Renata Duarte",
+            "valor": 60000,
+            "conc": 9,
+            "tickers": [
+              "ABEV3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n84",
+      "titulo": "Petrobras (PETR4) anuncia nova política de dividendos",
+      "resumo": "Mudança na distribuição divide opiniões; análise avalia impacto no dividend yield.",
+      "fonte": "Brazil Journal",
+      "categoria": "corporativo",
+      "tickers": [
+        "PETR4"
+      ],
+      "publicado": "2026-04-25T13:00:00Z",
+      "data": "2026-04-25",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 2,
+        "patrimonioAfetado": 170000,
+        "amostra": [
+          {
+            "id": "c12",
+            "nome": "Gustavo Andrade",
+            "valor": 90000,
+            "conc": 15,
+            "tickers": [
+              "PETR4"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 80000,
+            "conc": 10,
+            "tickers": [
+              "PETR4"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n100",
+      "titulo": "China anuncia novo pacote de estímulo à economia",
+      "resumo": "Medidas animam mercados de commodities e exportadoras globais.",
+      "fonte": "Brazil Journal",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-25T12:30:00Z",
+      "data": "2026-04-25",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n83",
+      "titulo": "Itaú (ITUB4) entrega ROE recorde e supera projeções",
+      "resumo": "Rentabilidade surpreende e reforça a leitura construtiva sobre o setor bancário.",
+      "fonte": "Bloomberg",
+      "categoria": "corporativo",
+      "tickers": [
+        "ITUB4"
+      ],
+      "publicado": "2026-04-25T12:00:00Z",
+      "data": "2026-04-25",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 17,
+        "patrimonioAfetado": 2560000,
+        "amostra": [
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 300000,
+            "conc": 7,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 250000,
+            "conc": 14,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 231000,
+            "conc": 26,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 220000,
+            "conc": 23,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c4",
+            "nome": "Juliana Costa",
+            "valor": 200000,
+            "conc": 38,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c8",
+            "nome": "Nunes Comércio S.A.",
+            "valor": 180000,
+            "conc": 9,
+            "tickers": [
+              "ITUB4"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n99",
+      "titulo": "Bolsa fecha em alta puxada por commodities",
+      "resumo": "Ibovespa acompanha exterior positivo; giro financeiro sobe.",
+      "fonte": "Bloomberg",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-25T11:30:00Z",
+      "data": "2026-04-25",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n82",
+      "titulo": "PRIO3 avança com petróleo em alta e produção recorde no trimestre",
+      "resumo": "Produtora se beneficia do Brent elevado; relatório detalha alavancagem operacional.",
+      "fonte": "Infomoney",
+      "categoria": "corporativo",
+      "tickers": [
+        "PRIO3"
+      ],
+      "publicado": "2026-04-25T11:00:00Z",
+      "data": "2026-04-25",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 14,
+        "patrimonioAfetado": 2649000,
+        "amostra": [
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 384000,
+            "conc": 31,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 290000,
+            "conc": 40,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 279000,
+            "conc": 31,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 260000,
+            "conc": 32,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c8",
+            "nome": "Nunes Comércio S.A.",
+            "valor": 200000,
+            "conc": 10,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 200000,
+            "conc": 5,
+            "tickers": [
+              "PRIO3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n92",
+      "titulo": "Itaú (ITUB4) expande carteira de crédito com cautela",
+      "resumo": "Guidance de crédito em destaque; análise vê espaço para ROE alto persistir.",
+      "fonte": "Brazil Journal",
+      "categoria": "corporativo",
+      "tickers": [
+        "ITUB4"
+      ],
+      "publicado": "2026-04-25T11:00:00Z",
+      "data": "2026-04-25",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 17,
+        "patrimonioAfetado": 2560000,
+        "amostra": [
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 300000,
+            "conc": 7,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 250000,
+            "conc": 14,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 231000,
+            "conc": 26,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 220000,
+            "conc": 23,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c4",
+            "nome": "Juliana Costa",
+            "valor": 200000,
+            "conc": 38,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c8",
+            "nome": "Nunes Comércio S.A.",
+            "valor": 180000,
+            "conc": 9,
+            "tickers": [
+              "ITUB4"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n98",
+      "titulo": "Boletim Focus revisa projeção de PIB para cima",
+      "resumo": "Economistas ficam mais otimistas com atividade no segundo semestre.",
+      "fonte": "Infomoney",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-25T10:30:00Z",
+      "data": "2026-04-25",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n81",
+      "titulo": "Vale (VALE3) reporta produção de minério do 1T abaixo do esperado",
+      "resumo": "Volume de minério de ferro aquém das estimativas pressiona a ação; análise revisa guidance.",
+      "fonte": "Finance News",
+      "categoria": "corporativo",
+      "tickers": [
+        "VALE3"
+      ],
+      "publicado": "2026-04-25T10:00:00Z",
+      "data": "2026-04-25",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 12,
+        "patrimonioAfetado": 2813000,
+        "amostra": [
+          {
+            "id": "c3",
+            "nome": "Tavares Participações Ltda",
+            "valor": 668000,
+            "conc": 20,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 400000,
+            "conc": 10,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 300000,
+            "conc": 16,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 240000,
+            "conc": 33,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 210000,
+            "conc": 17,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 200000,
+            "conc": 25,
+            "tickers": [
+              "VALE3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n91",
+      "titulo": "PRIO3 conclui aquisição de novo campo e amplia reservas",
+      "resumo": "Movimento reforça a estratégia de crescimento por M&A da produtora.",
+      "fonte": "Bloomberg",
+      "categoria": "corporativo",
+      "tickers": [
+        "PRIO3"
+      ],
+      "publicado": "2026-04-25T10:00:00Z",
+      "data": "2026-04-25",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 14,
+        "patrimonioAfetado": 2649000,
+        "amostra": [
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 384000,
+            "conc": 31,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 290000,
+            "conc": 40,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 279000,
+            "conc": 31,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 260000,
+            "conc": 32,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c8",
+            "nome": "Nunes Comércio S.A.",
+            "valor": 200000,
+            "conc": 10,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 200000,
+            "conc": 5,
+            "tickers": [
+              "PRIO3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n97",
+      "titulo": "IPCA vem abaixo do esperado e anima mercado de juros",
+      "resumo": "Desinflação de bens dá alívio; curva de juros abre espaço para corte.",
+      "fonte": "Finance News",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-25T09:30:00Z",
+      "data": "2026-04-25",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n90",
+      "titulo": "Minério recua na China e pressiona Vale (VALE3)",
+      "resumo": "Demanda siderúrgica mais fraca traz cautela para as mineradoras.",
+      "fonte": "Infomoney",
+      "categoria": "corporativo",
+      "tickers": [
+        "VALE3"
+      ],
+      "publicado": "2026-04-25T09:00:00Z",
+      "data": "2026-04-25",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 12,
+        "patrimonioAfetado": 2813000,
+        "amostra": [
+          {
+            "id": "c3",
+            "nome": "Tavares Participações Ltda",
+            "valor": 668000,
+            "conc": 20,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 400000,
+            "conc": 10,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 300000,
+            "conc": 16,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 240000,
+            "conc": 33,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 210000,
+            "conc": 17,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 200000,
+            "conc": 25,
+            "tickers": [
+              "VALE3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n96",
+      "titulo": "Dólar recua com fluxo estrangeiro para a bolsa brasileira",
+      "resumo": "Real se fortalece na sessão; análise comenta os drivers de curto prazo.",
+      "fonte": "Brazil Journal",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-25T08:30:00Z",
+      "data": "2026-04-25",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n89",
+      "titulo": "Suzano (SUZB3) no radar com celulose em recuperação",
+      "resumo": "Preços internacionais melhoram a tese exportadora da companhia.",
+      "fonte": "Finance News",
+      "categoria": "corporativo",
+      "tickers": [
+        "SUZB3"
+      ],
+      "publicado": "2026-04-25T08:00:00Z",
+      "data": "2026-04-25",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 2,
+        "patrimonioAfetado": 290000,
+        "amostra": [
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 200000,
+            "conc": 11,
+            "tickers": [
+              "SUZB3"
+            ]
+          },
+          {
+            "id": "c15",
+            "nome": "Larissa Prado",
+            "valor": 90000,
+            "conc": 20,
+            "tickers": [
+              "SUZB3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n95",
+      "titulo": "Petróleo dispara com tensão no Oriente Médio",
+      "resumo": "Brent avança e mexe com o humor dos mercados globais.",
+      "fonte": "Bloomberg",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-25T07:30:00Z",
+      "data": "2026-04-25",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n118",
+      "titulo": "Boletim Focus revisa projeção de PIB para cima",
+      "resumo": "Economistas ficam mais otimistas com atividade no segundo semestre.",
+      "fonte": "Infomoney",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-24T18:30:00Z",
+      "data": "2026-04-24",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n117",
+      "titulo": "IPCA vem abaixo do esperado e anima mercado de juros",
+      "resumo": "Desinflação de bens dá alívio; curva de juros abre espaço para corte.",
+      "fonte": "Finance News",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-24T17:30:00Z",
+      "data": "2026-04-24",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n108",
+      "titulo": "Banco do Brasil (BBAS3) surpreende com inadimplência controlada",
+      "resumo": "Carteira agro em foco; análise pondera riscos e atratividade do valuation.",
+      "fonte": "Brazil Journal",
+      "categoria": "corporativo",
+      "tickers": [
+        "BBAS3"
+      ],
+      "publicado": "2026-04-24T17:00:00Z",
+      "data": "2026-04-24",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 2,
+        "patrimonioAfetado": 190000,
+        "amostra": [
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 110000,
+            "conc": 12,
+            "tickers": [
+              "BBAS3"
+            ]
+          },
+          {
+            "id": "c19",
+            "nome": "Renata Duarte",
+            "valor": 80000,
+            "conc": 12,
+            "tickers": [
+              "BBAS3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n116",
+      "titulo": "Dólar recua com fluxo estrangeiro para a bolsa brasileira",
+      "resumo": "Real se fortalece na sessão; análise comenta os drivers de curto prazo.",
+      "fonte": "Brazil Journal",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-24T16:30:00Z",
+      "data": "2026-04-24",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n107",
+      "titulo": "Sabesp (SBSP3) mostra ganhos de eficiência pós-privatização",
+      "resumo": "Primeiros números operacionais animam; relatório revisa premissas de margem.",
+      "fonte": "Bloomberg",
+      "categoria": "corporativo",
+      "tickers": [
+        "SBSP3"
+      ],
+      "publicado": "2026-04-24T16:00:00Z",
+      "data": "2026-04-24",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 2,
+        "patrimonioAfetado": 60000,
+        "amostra": [
+          {
+            "id": "c14",
+            "nome": "Vinícius Tavares",
+            "valor": 35000,
+            "conc": 13,
+            "tickers": [
+              "SBSP3"
+            ]
+          },
+          {
+            "id": "c9",
+            "nome": "Rodrigo Faria",
+            "valor": 25000,
+            "conc": 8,
+            "tickers": [
+              "SBSP3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n115",
+      "titulo": "Petróleo dispara com tensão no Oriente Médio",
+      "resumo": "Brent avança e mexe com o humor dos mercados globais.",
+      "fonte": "Bloomberg",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-24T15:30:00Z",
+      "data": "2026-04-24",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n106",
+      "titulo": "Itaúsa (ITSA4) negocia com desconto de holding acima da média histórica",
+      "resumo": "Assimetria favorável, segundo análise, com portfólio de participações resiliente.",
+      "fonte": "Infomoney",
+      "categoria": "corporativo",
+      "tickers": [
+        "ITSA4"
+      ],
+      "publicado": "2026-04-24T15:00:00Z",
+      "data": "2026-04-24",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 3,
+        "patrimonioAfetado": 295000,
+        "amostra": [
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 130000,
+            "conc": 14,
+            "tickers": [
+              "ITSA4"
+            ]
+          },
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 95000,
+            "conc": 8,
+            "tickers": [
+              "ITSA4"
+            ]
+          },
+          {
+            "id": "c19",
+            "nome": "Renata Duarte",
+            "valor": 70000,
+            "conc": 10,
+            "tickers": [
+              "ITSA4"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n114",
+      "titulo": "Fed mantém juros e sinaliza cautela com inflação de serviços",
+      "resumo": "Powell reforça dependência de dados; dólar reage no exterior.",
+      "fonte": "Infomoney",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-24T14:30:00Z",
+      "data": "2026-04-24",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n105",
+      "titulo": "Ambev (ABEV3): volume fraco no trimestre preocupa mercado",
+      "resumo": "Crescimento e momentum decepcionam apesar da saúde financeira robusta.",
+      "fonte": "Finance News",
+      "categoria": "corporativo",
+      "tickers": [
+        "ABEV3"
+      ],
+      "publicado": "2026-04-24T14:00:00Z",
+      "data": "2026-04-24",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 10,
+        "patrimonioAfetado": 588000,
+        "amostra": [
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 86000,
+            "conc": 7,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 80000,
+            "conc": 9,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 70000,
+            "conc": 7,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 60000,
+            "conc": 8,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c11",
+            "nome": "Cliente de Teste (envio)",
+            "valor": 60000,
+            "conc": 12,
+            "tickers": [
+              "ABEV3"
+            ]
+          },
+          {
+            "id": "c19",
+            "nome": "Renata Duarte",
+            "valor": 60000,
+            "conc": 9,
+            "tickers": [
+              "ABEV3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n113",
+      "titulo": "Copom corta Selic em 0,25 p.p. em decisão vista como hawkish",
+      "resumo": "Comunicado mais duro que o esperado; mercado recalibra projeções de juros.",
+      "fonte": "Finance News",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-24T13:30:00Z",
+      "data": "2026-04-24",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n104",
+      "titulo": "Petrobras (PETR4) anuncia nova política de dividendos",
+      "resumo": "Mudança na distribuição divide opiniões; análise avalia impacto no dividend yield.",
+      "fonte": "Brazil Journal",
+      "categoria": "corporativo",
+      "tickers": [
+        "PETR4"
+      ],
+      "publicado": "2026-04-24T13:00:00Z",
+      "data": "2026-04-24",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 2,
+        "patrimonioAfetado": 170000,
+        "amostra": [
+          {
+            "id": "c12",
+            "nome": "Gustavo Andrade",
+            "valor": 90000,
+            "conc": 15,
+            "tickers": [
+              "PETR4"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 80000,
+            "conc": 10,
+            "tickers": [
+              "PETR4"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n103",
+      "titulo": "Itaú (ITUB4) entrega ROE recorde e supera projeções",
+      "resumo": "Rentabilidade surpreende e reforça a leitura construtiva sobre o setor bancário.",
+      "fonte": "Bloomberg",
+      "categoria": "corporativo",
+      "tickers": [
+        "ITUB4"
+      ],
+      "publicado": "2026-04-24T12:00:00Z",
+      "data": "2026-04-24",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 17,
+        "patrimonioAfetado": 2560000,
+        "amostra": [
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 300000,
+            "conc": 7,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 250000,
+            "conc": 14,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 231000,
+            "conc": 26,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 220000,
+            "conc": 23,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c4",
+            "nome": "Juliana Costa",
+            "valor": 200000,
+            "conc": 38,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c8",
+            "nome": "Nunes Comércio S.A.",
+            "valor": 180000,
+            "conc": 9,
+            "tickers": [
+              "ITUB4"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n102",
+      "titulo": "PRIO3 avança com petróleo em alta e produção recorde no trimestre",
+      "resumo": "Produtora se beneficia do Brent elevado; relatório detalha alavancagem operacional.",
+      "fonte": "Infomoney",
+      "categoria": "corporativo",
+      "tickers": [
+        "PRIO3"
+      ],
+      "publicado": "2026-04-24T11:00:00Z",
+      "data": "2026-04-24",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 14,
+        "patrimonioAfetado": 2649000,
+        "amostra": [
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 384000,
+            "conc": 31,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 290000,
+            "conc": 40,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 279000,
+            "conc": 31,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 260000,
+            "conc": 32,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c8",
+            "nome": "Nunes Comércio S.A.",
+            "valor": 200000,
+            "conc": 10,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 200000,
+            "conc": 5,
+            "tickers": [
+              "PRIO3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n112",
+      "titulo": "Itaú (ITUB4) expande carteira de crédito com cautela",
+      "resumo": "Guidance de crédito em destaque; análise vê espaço para ROE alto persistir.",
+      "fonte": "Brazil Journal",
+      "categoria": "corporativo",
+      "tickers": [
+        "ITUB4"
+      ],
+      "publicado": "2026-04-24T11:00:00Z",
+      "data": "2026-04-24",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 17,
+        "patrimonioAfetado": 2560000,
+        "amostra": [
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 300000,
+            "conc": 7,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 250000,
+            "conc": 14,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 231000,
+            "conc": 26,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c13",
+            "nome": "Patrícia Lemos",
+            "valor": 220000,
+            "conc": 23,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c4",
+            "nome": "Juliana Costa",
+            "valor": 200000,
+            "conc": 38,
+            "tickers": [
+              "ITUB4"
+            ]
+          },
+          {
+            "id": "c8",
+            "nome": "Nunes Comércio S.A.",
+            "valor": 180000,
+            "conc": 9,
+            "tickers": [
+              "ITUB4"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n101",
+      "titulo": "Vale (VALE3) reporta produção de minério do 1T abaixo do esperado",
+      "resumo": "Volume de minério de ferro aquém das estimativas pressiona a ação; análise revisa guidance.",
+      "fonte": "Finance News",
+      "categoria": "corporativo",
+      "tickers": [
+        "VALE3"
+      ],
+      "publicado": "2026-04-24T10:00:00Z",
+      "data": "2026-04-24",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 12,
+        "patrimonioAfetado": 2813000,
+        "amostra": [
+          {
+            "id": "c3",
+            "nome": "Tavares Participações Ltda",
+            "valor": 668000,
+            "conc": 20,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 400000,
+            "conc": 10,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 300000,
+            "conc": 16,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 240000,
+            "conc": 33,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 210000,
+            "conc": 17,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 200000,
+            "conc": 25,
+            "tickers": [
+              "VALE3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n111",
+      "titulo": "PRIO3 conclui aquisição de novo campo e amplia reservas",
+      "resumo": "Movimento reforça a estratégia de crescimento por M&A da produtora.",
+      "fonte": "Bloomberg",
+      "categoria": "corporativo",
+      "tickers": [
+        "PRIO3"
+      ],
+      "publicado": "2026-04-24T10:00:00Z",
+      "data": "2026-04-24",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 14,
+        "patrimonioAfetado": 2649000,
+        "amostra": [
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 384000,
+            "conc": 31,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 290000,
+            "conc": 40,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c2",
+            "nome": "Ana Paula Reis",
+            "valor": 279000,
+            "conc": 31,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 260000,
+            "conc": 32,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c8",
+            "nome": "Nunes Comércio S.A.",
+            "valor": 200000,
+            "conc": 10,
+            "tickers": [
+              "PRIO3"
+            ]
+          },
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 200000,
+            "conc": 5,
+            "tickers": [
+              "PRIO3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n110",
+      "titulo": "Minério recua na China e pressiona Vale (VALE3)",
+      "resumo": "Demanda siderúrgica mais fraca traz cautela para as mineradoras.",
+      "fonte": "Infomoney",
+      "categoria": "corporativo",
+      "tickers": [
+        "VALE3"
+      ],
+      "publicado": "2026-04-24T09:00:00Z",
+      "data": "2026-04-24",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 12,
+        "patrimonioAfetado": 2813000,
+        "amostra": [
+          {
+            "id": "c3",
+            "nome": "Tavares Participações Ltda",
+            "valor": 668000,
+            "conc": 20,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c20",
+            "nome": "Vale do Sol Agropecuária Ltda",
+            "valor": 400000,
+            "conc": 10,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 300000,
+            "conc": 16,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c7",
+            "nome": "Marcos Aurélio",
+            "valor": 240000,
+            "conc": 33,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c1",
+            "nome": "Ricardo Menezes",
+            "valor": 210000,
+            "conc": 17,
+            "tickers": [
+              "VALE3"
+            ]
+          },
+          {
+            "id": "c18",
+            "nome": "Bruno Cavalcanti",
+            "valor": 200000,
+            "conc": 25,
+            "tickers": [
+              "VALE3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n120",
+      "titulo": "China anuncia novo pacote de estímulo à economia",
+      "resumo": "Medidas animam mercados de commodities e exportadoras globais.",
+      "fonte": "Brazil Journal",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-24T08:30:00Z",
+      "data": "2026-04-24",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    },
+    {
+      "id": "n109",
+      "titulo": "Suzano (SUZB3) no radar com celulose em recuperação",
+      "resumo": "Preços internacionais melhoram a tese exportadora da companhia.",
+      "fonte": "Finance News",
+      "categoria": "corporativo",
+      "tickers": [
+        "SUZB3"
+      ],
+      "publicado": "2026-04-24T08:00:00Z",
+      "data": "2026-04-24",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 2,
+        "patrimonioAfetado": 290000,
+        "amostra": [
+          {
+            "id": "c21",
+            "nome": "Horizonte Engenharia S.A.",
+            "valor": 200000,
+            "conc": 11,
+            "tickers": [
+              "SUZB3"
+            ]
+          },
+          {
+            "id": "c15",
+            "nome": "Larissa Prado",
+            "valor": 90000,
+            "conc": 20,
+            "tickers": [
+              "SUZB3"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "n119",
+      "titulo": "Bolsa fecha em alta puxada por commodities",
+      "resumo": "Ibovespa acompanha exterior positivo; giro financeiro sobe.",
+      "fonte": "Bloomberg",
+      "categoria": "macro",
+      "tickers": [],
+      "publicado": "2026-04-24T07:30:00Z",
+      "data": "2026-04-24",
+      "url": "https://resenha-proxy.pages.dev/?pills=analise",
+      "afeta": {
+        "clientes": 0,
+        "patrimonioAfetado": 0,
+        "amostra": []
+      }
+    }
+  ]
+}
