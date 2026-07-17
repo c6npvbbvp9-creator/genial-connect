@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Geniai Connect — Genial Investimentos</title>
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap');
 
   :root{
     --ink:#111C4E; --ink-2:#2645BC; --blue:#1A2E8A; --blue-deep:#0B1442;
@@ -205,49 +205,15 @@
   .envio-row .desc{flex:1;color:var(--gray-600)}
   .envio-row .when{color:var(--gray-400);font-size:11px;flex-shrink:0}
   .envio-empty{color:var(--gray-400);font-size:12.5px;text-align:center;padding:40px 0}
+  /* ============================================================
+     NOTÍCIAS — tema claro, identidade visual Genial (branco + azul-marinho)
+     ============================================================ */
   .noticias-list{max-width:none}
-  .noticias-hero{position:relative;overflow:hidden;border-radius:18px;padding:28px 30px;margin-bottom:18px;
-    display:block;text-decoration:none;color:#fff;
-    background:
-      radial-gradient(500px 260px at 100% -10%, rgba(13,106,255,.35), transparent 60%),
-      linear-gradient(160deg,#0C1746 0%,#111C4E 45%,#0B1533 100%);
-    animation:nc-in .5s ease both}
-  .noticias-hero::after{content:"";position:absolute;inset:0;
-    background-image:radial-gradient(rgba(255,255,255,.07) 1px, transparent 1px);
-    background-size:22px 22px;mask:linear-gradient(180deg,transparent,#000 40%,#000 100%)}
-  .noticias-hero .nh-tag{position:relative;z-index:2;display:inline-flex;align-items:center;gap:6px;
-    font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#7FD3FF;
-    background:rgba(127,211,255,.12);border:1px solid rgba(127,211,255,.25);border-radius:20px;padding:4px 11px;margin-bottom:14px}
-  .noticias-hero .nh-title{position:relative;z-index:2;font-size:21px;font-weight:800;line-height:1.28;
-    max-width:640px;margin-bottom:10px;letter-spacing:-.01em}
-  .noticias-hero .nh-resumo{position:relative;z-index:2;font-size:13px;color:#B9C7D6;line-height:1.6;max-width:600px;margin-bottom:16px}
-  .noticias-hero .nh-link{position:relative;z-index:2;display:inline-flex;align-items:center;gap:6px;
-    font-size:12px;font-weight:700;color:#fff;background:rgba(255,255,255,.12);border-radius:10px;padding:8px 14px}
-  .noticias-hero .nh-link:hover{background:rgba(255,255,255,.2)}
-  .noticias-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px}
-  @keyframes nc-in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
-  .noticia-card{position:relative;background:var(--paper);border:1px solid var(--gray-200);border-radius:13px;
-    padding:16px 18px 16px 20px;display:block;text-decoration:none;color:inherit;transition:.16s;
-    animation:nc-in .45s ease both}
-  .noticia-card::before{content:"";position:absolute;left:0;top:14px;bottom:14px;width:3px;border-radius:3px;background:var(--blue-100)}
-  .noticia-card:hover{border-color:var(--blue-100);box-shadow:var(--shadow);transform:translateY(-2px)}
-  .noticia-card:hover::before{background:var(--blue)}
-  .noticia-card .nc-date{font-size:10px;color:var(--gray-400);font-weight:700;text-transform:uppercase;letter-spacing:.04em;margin-bottom:7px}
-  .noticia-card .nc-title{font-size:13.5px;font-weight:700;color:var(--ink);margin-bottom:6px;line-height:1.4}
-  .noticia-card .nc-resumo{font-size:12px;color:var(--gray-600);line-height:1.55;
-    display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
-  .noticia-card .nc-link{font-size:10.5px;color:var(--blue);font-weight:700;margin-top:10px;display:inline-block}
-  /* ---- Notícias Resenha: impacto de carteira + mensagem AI ---- */
-  .noticias-sub{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:2px 0 16px}
-  .noticias-sub .chip{font-size:11px;font-weight:700;padding:4px 10px;border-radius:20px;background:var(--blue-50);color:var(--blue)}
-  .noticias-sub .chip.warn{background:#FDF0E1;color:var(--amber)}
-  .noticias-sub .chip.buy{background:#EAFBF2;color:var(--pos)}
-  .noticias-sub .src{font-size:11px;color:var(--gray-400);font-weight:500}
 
-  /* Cabeçalho editorial da aba de Notícias */
+  /* ---- cabeçalho editorial ---- */
   .rz-header{display:flex;justify-content:space-between;align-items:flex-end;gap:24px;flex-wrap:wrap;margin-bottom:16px}
   .rz-eyebrow{font-size:11px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--blue);margin-bottom:8px}
-  .rz-heading{font-size:28px;font-weight:800;color:var(--ink);letter-spacing:-.02em;line-height:1.15;margin:0 0 8px}
+  .rz-heading{font-size:27px;font-weight:800;color:var(--ink);letter-spacing:-.02em;line-height:1.15;margin:0 0 8px}
   .rz-header-sub{font-size:13px;color:var(--gray-600);max-width:420px;line-height:1.5}
   .rz-stats{display:flex;gap:10px;flex-wrap:wrap}
   .rz-stat{background:var(--paper);border:1px solid var(--gray-200);border-radius:12px;padding:12px 20px;min-width:132px;text-align:center}
@@ -256,22 +222,29 @@
   .rz-stat.dark{background:var(--ink);border-color:var(--ink)}
   .rz-stat.dark .v{color:#fff}
   .rz-stat.dark .l{color:rgba(255,255,255,.65)}
-  .rz-source-pill{display:inline-flex;align-items:center;gap:7px;font-size:11.5px;font-weight:600;color:var(--pos);
-    background:#EAFBF2;border:1px solid #CDEBD8;border-radius:20px;padding:6px 13px;margin-bottom:22px}
-  .rz-source-pill .dot{width:7px;height:7px;border-radius:50%;background:var(--pos);animation:pulse 2s infinite}
+  .rz-source-pill{display:inline-flex;align-items:center;gap:7px;font-size:11.5px;font-weight:600;
+    color:var(--neg);background:#FDEAEA;border:1px solid #F5C6C6;border-radius:20px;padding:6px 13px;margin-bottom:20px}
+  .rz-source-pill .dot{width:7px;height:7px;border-radius:50%;background:var(--neg);animation:rzPulseRed 2s infinite}
+  @keyframes rzPulseRed{0%{box-shadow:0 0 0 0 rgba(214,69,80,.4)}70%{box-shadow:0 0 0 7px rgba(214,69,80,0)}100%{box-shadow:0 0 0 0 rgba(214,69,80,0)}}
+  .rz-live-clock{color:var(--gray-400);font-weight:600}
   @media (max-width:720px){
     .rz-header{align-items:flex-start}
     .rz-stats{width:100%}
     .rz-stat{flex:1;min-width:0}
   }
 
-  /* Hero — a notícia de maior impacto agora */
+  /* ---- Hero — a notícia de maior impacto agora ---- */
   .rz-hero{display:flex;border:1px solid var(--gray-200);border-radius:16px;overflow:hidden;background:var(--paper);
     box-shadow:var(--shadow);animation:nc-in .5s ease both}
   .rz-hero-left{flex:1 1 58%;padding:22px 26px;min-width:0;display:flex;flex-direction:column}
   .rz-hero-tag{display:flex;align-items:center;gap:8px;font-size:10.5px;font-weight:800;letter-spacing:.06em;
-    color:var(--amber);margin-bottom:14px;flex-wrap:wrap}
-  .rz-hero-dot{width:7px;height:7px;border-radius:50%;background:var(--amber);flex:none}
+    color:var(--amber);margin-bottom:14px;flex-wrap:wrap;text-transform:uppercase}
+  .rz-hero-dot{width:7px;height:7px;border-radius:50%;background:var(--amber);flex:none;
+    animation:rzHeroDotBlink 1.6s ease-in-out infinite}
+  @keyframes rzHeroDotBlink{
+    0%,100%{box-shadow:0 0 8px rgba(224,141,43,.6)}
+    50%{box-shadow:0 0 3px rgba(224,141,43,.25)}
+  }
   .rz-hero-meta{margin-left:auto;color:var(--gray-400);font-weight:600;letter-spacing:0;text-transform:none}
   .rz-hero-title{font-size:22px;font-weight:800;color:var(--ink);line-height:1.28;margin-bottom:10px}
   .rz-hero-title a{color:inherit;text-decoration:none}
@@ -301,7 +274,7 @@
     .rz-hero-right{flex-basis:auto}
   }
 
-  /* Carrossel horizontal — seção "Afetam sua base" */
+  /* ---- Carrossel horizontal — "Afetam sua base" ---- */
   .rz-carousel{display:flex;gap:14px;overflow-x:auto;overflow-y:hidden;padding:2px 2px 14px;
     scroll-snap-type:x proximity;-webkit-overflow-scrolling:touch}
   .rz-carousel::-webkit-scrollbar{height:7px}
@@ -310,18 +283,42 @@
   .rz-carousel .rz-card{flex:0 0 360px;scroll-snap-align:start;margin-bottom:0}
   @media (max-width:600px){.rz-carousel .rz-card{flex-basis:88vw}}
 
-  /* Grid responsivo — seção "Todas as notícias" */
+  /* Cards do carrossel "Afetam sua base": azul-marinho escuro com texto branco,
+     no estilo dos cards de "Últimos Relatórios" do Genial Analisa */
+  .rz-carousel .rz-card{
+    background:linear-gradient(160deg,#131A52 0%,#0F1442 100%);
+    border:1px solid rgba(255,255,255,.08);
+    box-shadow:0 16px 32px -20px rgba(6,10,40,.55);
+  }
+  .rz-carousel .rz-card:hover{border-color:rgba(255,255,255,.22);box-shadow:0 20px 40px -18px rgba(6,10,40,.65);transform:translateY(-2px)}
+  .rz-carousel .rz-card.hit{border-left:3px solid var(--amber)}
+  .rz-carousel .rz-card.opportunity{border-left:3px solid var(--pos)}
+  .rz-carousel .rz-card .rz-date{color:rgba(255,255,255,.45)}
+  .rz-carousel .rz-card .rz-title{color:#fff}
+  .rz-carousel .rz-card .rz-title a:hover{color:#9FB4FF}
+  .rz-carousel .rz-card .rz-resumo{color:rgba(255,255,255,.68)}
+  .rz-carousel .rz-card .rz-tk{background:rgba(255,255,255,.12);color:#fff;border:1px solid rgba(255,255,255,.16)}
+  .rz-carousel .rz-card .rz-foot .who-list{color:rgba(255,255,255,.62)}
+  .rz-carousel .rz-card .rz-foot .who-list b{color:#fff}
+  .rz-carousel .rz-card .rz-btn{background:rgba(255,255,255,.1);border-color:rgba(255,255,255,.22);color:#fff}
+  .rz-carousel .rz-card .rz-btn:hover{background:rgba(255,255,255,.18)}
+  .rz-carousel .rz-card .rz-btn.ghost{background:transparent;border-color:rgba(255,255,255,.28);color:rgba(255,255,255,.85)}
+  .rz-carousel .rz-card .rz-btn.ghost:hover{border-color:#fff;color:#fff}
+  .rz-carousel .rz-card .rz-msg{border-top-color:rgba(255,255,255,.18)}
+
+  /* ---- Grid responsivo — "Todas as notícias" ---- */
   .rz-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:14px}
   .rz-grid .rz-card{margin-bottom:0}
 
-  /* Pills de filtro por categoria */
+  /* ---- Pills de filtro por categoria ---- */
   .rz-filters{display:flex;gap:8px;margin-bottom:16px;flex-wrap:wrap}
   .rz-filter{font-size:12px;font-weight:700;padding:7px 14px;border-radius:20px;border:1px solid var(--gray-200);
     background:var(--paper);color:var(--gray-600);cursor:pointer;transition:.15s;font-family:inherit}
   .rz-filter:hover{border-color:var(--blue-100);color:var(--blue)}
   .rz-filter.active{background:var(--blue);border-color:var(--blue);color:#fff}
 
-  .rz-card{position:relative;background:var(--paper);border:1px solid var(--gray-200);border-radius:14px;    padding:16px 18px;margin-bottom:12px;transition:.16s;animation:nc-in .45s ease both;display:flex;flex-direction:column}
+  .rz-card{position:relative;background:var(--paper);border:1px solid var(--gray-200);border-radius:14px;
+    padding:16px 18px;margin-bottom:12px;transition:.16s;animation:nc-in .45s ease both;display:flex;flex-direction:column}
   .rz-card.hit{border-left:3px solid var(--amber)}
   .rz-card.miss{opacity:.82}
   .rz-card.opportunity{border-left:3px solid var(--pos)}
@@ -339,6 +336,8 @@
   .rz-fonte.f-finance{background:var(--blue-50);color:var(--blue)}
   .rz-date{font-size:10.5px;color:var(--gray-400);font-weight:600}
   .rz-tk{font-size:10px;font-weight:800;color:var(--ink);background:var(--gray-100);border-radius:6px;padding:3px 7px}
+  .rz-tk-wrap{display:inline-flex;align-items:center;gap:5px}
+  .rz-spark{display:block;flex:none}
   .rz-impact{margin-left:auto;display:inline-flex;align-items:center;gap:6px;font-size:11.5px;font-weight:800;
     color:var(--amber);background:#FDF0E1;border-radius:20px;padding:4px 11px;white-space:nowrap}
   .rz-impact svg{width:13px;height:13px}
@@ -377,6 +376,23 @@
     color:var(--blue);border-radius:12px;font-size:12.5px;font-weight:700;cursor:pointer;font-family:inherit;transition:.15s}
   .rz-more:hover{background:var(--blue-50)}
   .rz-allshown{text-align:center;font-size:11.5px;color:var(--gray-400);font-weight:600;padding:14px}
+
+  /* ---- simulação de notícia "entrando ao vivo" ---- */
+  @keyframes rzLiveIn{
+    0%{opacity:0;transform:translateY(-16px) scale(.98);box-shadow:0 0 0 0 rgba(224,141,43,0)}
+    30%{opacity:1;transform:translateY(0) scale(1);box-shadow:0 0 0 7px rgba(224,141,43,.22)}
+    100%{box-shadow:0 0 0 0 rgba(224,141,43,0)}
+  }
+  .rz-live-in{animation:rzLiveIn 1.1s ease both}
+  .rz-live-out{transition:opacity .45s ease, transform .45s ease;opacity:0!important;transform:scale(.95)!important}
+  .rz-live-badge{position:absolute;top:-9px;right:14px;display:inline-flex;align-items:center;gap:5px;
+    font-size:9px;font-weight:800;letter-spacing:.06em;color:#fff;
+    background:var(--amber);border-radius:20px;padding:3px 9px 3px 7px;z-index:3;
+    box-shadow:0 4px 14px -4px rgba(224,141,43,.6);animation:rzBadgeFade 5s ease forwards}
+  .rz-live-badge .dot{width:5px;height:5px;border-radius:50%;background:#fff;animation:rzBlink 1s infinite}
+  @keyframes rzBadgeFade{0%,78%{opacity:1}100%{opacity:0}}
+  @keyframes rzBlink{0%,100%{opacity:1}50%{opacity:.25}}
+
   .an-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin-bottom:20px}
   .an-card{background:var(--paper);border:1px solid var(--gray-200);border-radius:13px;padding:16px}
   .an-card .lbl{font-size:10.5px;text-transform:uppercase;letter-spacing:.05em;color:var(--gray-400);font-weight:600;margin-bottom:6px}
@@ -391,6 +407,7 @@
   .feed-head h2{font-size:11px;text-transform:uppercase;letter-spacing:.09em;color:var(--gray-400);font-weight:600}
   .feed-head .live{display:flex;align-items:center;gap:6px;font-size:10.5px;color:var(--pos);font-weight:600}
   .dot{width:7px;height:7px;border-radius:50%;background:var(--pos);animation:pulse 2s infinite}
+  @keyframes nc-in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
   @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(23,147,90,.4)}70%{box-shadow:0 0 0 7px rgba(23,147,90,0)}100%{box-shadow:0 0 0 0 rgba(23,147,90,0)}}
   .feed-note{font-size:10.5px;color:var(--gray-400);padding:0 4px 12px;font-weight:500}
 
@@ -2889,6 +2906,7 @@ function switchView(view){
     if(!el) return;
     el.style.display = (v===view) ? (v==='fila' ? 'grid' : 'block') : 'none';
   });
+  if(view!=='noticias'){ pararAutoScrollCarrossel(); pararFeedAoVivo(); pararRelogioAoVivo(); }
   if(view==='clientes'){ renderAnalyticsView(); renderClientesView(); }
   if(view==='envios') renderEnviosView();
   if(view==='tickers') renderTickersView();
@@ -3087,6 +3105,58 @@ function carregarNoticias(){
 let NEWS_SHOWN = 0;           // quantas da lista "todas" já estão na tela
 const NEWS_PAGE = 12;         // incremento do "Carregar mais"
 
+/* Anima um número subindo de 0 até o valor final (KPIs da aba de Notícias) */
+function animarContador(el, valorFinal, formatarFn, duracao){
+  if(!el) return;
+  duracao = duracao || 900;
+  const t0 = performance.now();
+  function passo(agora){
+    const t = Math.min((agora - t0) / duracao, 1);
+    const ease = 1 - Math.pow(1 - t, 3);
+    el.textContent = formatarFn(valorFinal * ease, t >= 1);
+    if(t < 1) requestAnimationFrame(passo);
+  }
+  requestAnimationFrame(passo);
+}
+
+/* Gerador de sparkline determinístico (mesmo ticker = mesmo desenho),
+   com viés pra cima/baixo de acordo com a recomendação atual do Research. */
+function mulberry32(seed){
+  return function(){
+    seed |= 0; seed = (seed + 0x6D2B79F5) | 0;
+    let t = Math.imul(seed ^ (seed >>> 15), 1 | seed);
+    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
+}
+function seedDeTexto(s){
+  let h = 0;
+  for(let i=0;i<String(s).length;i++) h = (h*31 + s.charCodeAt(i)) >>> 0;
+  return h;
+}
+function sparklineTicker(ticker, rec){
+  const rand = mulberry32(seedDeTexto(ticker||'X'));
+  const bias = rec==='COMPRAR' ? .095 : rec==='VENDER' ? -.095 : 0;
+  const n = 11;
+  let v = 0.5;
+  const pts = [v];
+  for(let i=1;i<n;i++){
+    v += (rand()-0.5)*0.22 + bias;
+    v = Math.max(0.1, Math.min(0.9, v));
+    pts.push(v);
+  }
+  const w = 42, h = 15;
+  const stepX = w/(n-1);
+  const d = pts.map((p,i)=> `${i===0?'M':'L'}${(i*stepX).toFixed(1)},${(h-p*h).toFixed(1)}`).join(' ');
+  const subiu = pts[pts.length-1] >= pts[0];
+  const cor = subiu ? 'var(--pos)' : 'var(--neg)';
+  return `<svg class="rz-spark" viewBox="0 0 ${w} ${h}" width="${w}" height="${h}" aria-hidden="true"><path d="${d}" fill="none" stroke="${cor}" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+}
+function tickerComSparkline(t){
+  const rep = REPORTS.find(r=>r.ticker===t);
+  return `<span class="rz-tk-wrap"><span class="rz-tk">${t}</span>${sparklineTicker(t, rep?.rec)}</span>`;
+}
+
 /* Cruza os tickers de uma notícia com a recomendação atual do Research Genial
    (REPORTS) para sinalizar potenciais oportunidades de compra por notícia. */
 function sinalOportunidadeNoticia(n){
@@ -3134,7 +3204,7 @@ function heroCardNoticia(n){
         <div class="rz-hero-resumo">${n.resumo||''}</div>
         ${sinalHtml}
         <div class="rz-hero-foot">
-          ${(n.tickers||[]).map(t=>`<span class="rz-tk">${t}</span>`).join('')}
+          ${(n.tickers||[]).map(tickerComSparkline).join('')}
           <div style="margin-left:auto;display:flex;gap:8px;flex-wrap:wrap">
             <button class="rz-btn primary" onclick="gerarMsgNoticia('${n.id}')">
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/></svg>
@@ -3146,9 +3216,9 @@ function heroCardNoticia(n){
         <div class="rz-msg" id="rzmsg-${n.id}"></div>
       </div>
       <div class="rz-hero-right">
-        <div class="rz-hero-num">${af.clientes}</div>
+        <div class="rz-hero-num" id="rzHeroNum" data-target="${af.clientes}">0</div>
         <div class="rz-hero-lbl">cliente${af.clientes>1?'s':''} afetado${af.clientes>1?'s':''}</div>
-        <div class="rz-hero-val">${moneyK(af.patrimonioAfetado)}</div>
+        <div class="rz-hero-val" id="rzHeroVal" data-target="${af.patrimonioAfetado}">R$ 0</div>
         <div class="rz-hero-lbl">em patrimônio exposto</div>
         <div class="rz-hero-avatars">${avatarsHtml}${extra}</div>
         <div class="rz-hero-names">${nomesTxt}</div>
@@ -3166,7 +3236,7 @@ function cardNoticia(n, i){
   const af = n.afeta || { clientes:0, patrimonioAfetado:0, amostra:[] };
   const hit = af.clientes>0;
   const sinal = sinalOportunidadeNoticia(n);
-  const tickersHtml = (n.tickers||[]).map(t=>`<span class="rz-tk">${t}</span>`).join('');
+  const tickersHtml = (n.tickers||[]).map(tickerComSparkline).join('');
   const sinalHtml = sinal
     ? `<span class="rz-buy-signal" title="Research Genial recomenda COMPRA para ${sinal.ticker}, preço-alvo ${moneyK(sinal.precoAlvo)}">
          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M23 6l-9.5 9.5-5-5L1 18"/><path d="M17 6h6v6"/></svg>
@@ -3257,12 +3327,12 @@ function renderNoticiasView(){
         <div class="rz-header-sub">Cada análise cruzada, em tempo real, com os clientes que você atende.</div>
       </div>
       <div class="rz-stats">
-        <div class="rz-stat"><div class="v">${NEWS.length}</div><div class="l">Análises no terminal</div></div>
-        <div class="rz-stat dark"><div class="v">${comImpacto.length}</div><div class="l">Afetam sua base</div></div>
-        <div class="rz-stat"><div class="v">${moneyK(patrimonioTotalExposto)}</div><div class="l">Patrimônio exposto</div></div>
+        <div class="rz-stat"><div class="v" id="rzStatAnalises">0</div><div class="l">Análises no terminal</div></div>
+        <div class="rz-stat dark"><div class="v" id="rzStatImpacto">0</div><div class="l">Afetam sua base</div></div>
+        <div class="rz-stat"><div class="v" id="rzStatExposto">R$ 0</div><div class="l">Patrimônio exposto</div></div>
       </div>
     </div>
-    <div class="rz-source-pill"><span class="dot"></span>Fonte: Resenha Trader · ${geradoTxt}</div>`;
+    <div class="rz-source-pill"><span class="dot"></span>Fonte: Resenha Trader · ${geradoTxt} <span id="rzLiveClock" class="rz-live-clock">· ao vivo há 0s</span></div>`;
 
   // ---- Seção 1: afetam sua base (hero da maior notícia + carrossel do restante) ----
   const hero = comImpacto[0] ? heroCardNoticia(comImpacto[0]) : '';
@@ -3304,6 +3374,102 @@ function renderNoticiasView(){
 
   list.innerHTML = subHtml + secImpacto + secTodas;
   renderNewsMoreBtn();
+
+  // KPIs do cabeçalho sobem de 0 até o valor real
+  animarContador(document.getElementById('rzStatAnalises'), NEWS.length, v=>Math.round(v).toString());
+  animarContador(document.getElementById('rzStatImpacto'), comImpacto.length, v=>Math.round(v).toString());
+  animarContador(document.getElementById('rzStatExposto'), patrimonioTotalExposto, v=>moneyK(v));
+
+  // números do hero também sobem de 0
+  const heroNumEl = document.getElementById('rzHeroNum');
+  const heroValEl = document.getElementById('rzHeroVal');
+  if(heroNumEl) animarContador(heroNumEl, Number(heroNumEl.dataset.target||0), v=>Math.round(v).toString());
+  if(heroValEl) animarContador(heroValEl, Number(heroValEl.dataset.target||0), v=>moneyK(v));
+
+  iniciarAutoScrollCarrossel();
+  iniciarFeedAoVivo();
+  iniciarRelogioAoVivo();
+}
+
+/* ---- Relógio "ao vivo" no selo de fonte (segundos desde que a view abriu) ---- */
+let rzClockTimer = null;
+let rzClockSegundos = 0;
+function pararRelogioAoVivo(){
+  if(rzClockTimer){ clearInterval(rzClockTimer); rzClockTimer = null; }
+}
+function iniciarRelogioAoVivo(){
+  pararRelogioAoVivo();
+  rzClockSegundos = 0;
+  rzClockTimer = setInterval(()=>{
+    rzClockSegundos++;
+    const el = document.getElementById('rzLiveClock');
+    if(!el || !document.body.contains(el)){ pararRelogioAoVivo(); return; }
+    const txt = rzClockSegundos < 60
+      ? `${rzClockSegundos}s`
+      : `${Math.floor(rzClockSegundos/60)}min ${rzClockSegundos%60}s`;
+    el.textContent = `· ao vivo há ${txt}`;
+  }, 1000);
+}
+
+/* ---- Carrossel "Afetam sua base" rolando sozinho, pausa ao passar o mouse ---- */
+let rzCarouselTimer = null;
+function pararAutoScrollCarrossel(){
+  if(rzCarouselTimer){ clearInterval(rzCarouselTimer); rzCarouselTimer = null; }
+}
+function iniciarAutoScrollCarrossel(){
+  pararAutoScrollCarrossel();
+  const car = document.querySelector('#viewNoticias .rz-carousel');
+  if(!car) return;
+  let pausado = false;
+  car.addEventListener('mouseenter', ()=> pausado = true);
+  car.addEventListener('mouseleave', ()=> pausado = false);
+  car.addEventListener('touchstart', ()=> pausado = true, {passive:true});
+  rzCarouselTimer = setInterval(()=>{
+    if(pausado || !document.body.contains(car)) return;
+    const primeiro = car.querySelector('.rz-card');
+    const passo = (primeiro ? primeiro.offsetWidth : 360) + 12;
+    const max = car.scrollWidth - car.clientWidth - 4;
+    if(car.scrollLeft >= max) car.scrollTo({ left:0, behavior:'smooth' });
+    else car.scrollBy({ left:passo, behavior:'smooth' });
+  }, 3800);
+}
+
+/* ---- Simulação de "notícia entrando ao vivo" no topo do terminal ---- */
+let rzLiveTimer = null;
+let rzLiveInjectCount = 0;
+function pararFeedAoVivo(){
+  if(rzLiveTimer){ clearInterval(rzLiveTimer); rzLiveTimer = null; }
+}
+function iniciarFeedAoVivo(){
+  pararFeedAoVivo();
+  rzLiveTimer = setInterval(()=>{
+    if(NEWS_FILTER !== 'todas') return; // não injeta enquanto um filtro específico está ativo
+    const holder = document.getElementById('rzTodasList');
+    if(!holder || !document.body.contains(holder) || !NEWS.length) return;
+
+    const n = NEWS[Math.floor(Math.random()*NEWS.length)];
+    rzLiveInjectCount++;
+    const html = cardNoticia(n, 0).replace(`id="rz-${n.id}"`, `id="rz-live-${rzLiveInjectCount}"`);
+    const wrapper = document.createElement('div');
+    wrapper.innerHTML = html.trim();
+    const card = wrapper.firstElementChild;
+    if(!card) return;
+    card.classList.add('rz-live-in');
+    const badge = document.createElement('span');
+    badge.className = 'rz-live-badge';
+    badge.innerHTML = '<span class="dot"></span>AO VIVO';
+    card.prepend(badge);
+    holder.prepend(card);
+    setTimeout(()=> badge.remove(), 5000);
+
+    // mantém a seção enxuta: remove o card injetado mais antigo além do 3º
+    const injetados = holder.querySelectorAll('[id^="rz-live-"]');
+    if(injetados.length > 3){
+      const maisAntigo = injetados[injetados.length-1];
+      maisAntigo.classList.add('rz-live-out');
+      setTimeout(()=> maisAntigo.remove(), 480);
+    }
+  }, 15000);
 }
 
 function renderNewsMoreBtn(){
