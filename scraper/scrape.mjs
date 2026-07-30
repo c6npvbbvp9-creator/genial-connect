@@ -33,7 +33,11 @@ const argVal = (name, def) => {
 };
 const LIMIT = parseInt(argVal('--limit', '10'), 10);
 const DRY = args.includes('--dry');
-const OUT = resolve(__dirname, argVal('--out', '../reports.json'));
+// Caminho de saída relativo ao diretório de onde o comando é executado
+// (no GitHub Actions isso é sempre a raiz do repositório), e NÃO relativo à
+// pasta do script. Assim o reports.json cai na raiz seja qual for a subpasta
+// em que este scrape.mjs esteja. Um caminho absoluto em --out é respeitado.
+const OUT = resolve(process.cwd(), argVal('--out', 'reports.json'));
 
 /* ------------------------------------------------------------------ utils */
 
