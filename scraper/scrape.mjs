@@ -91,7 +91,7 @@ export function parseLista(html) {
   const trecho = idx > 0 ? html.slice(idx) : html;
 
   // <a href="/acoes/<empresa>/<slug>"> ... Publicado em: 13/07/2026 ...
-  const re = /<a[^>]+href="((?:https?:\/\/[^"]+)?\/acoes\/[^"/]+\/[^"]+)"[^>]*>([\s\S]*?)<\/a>/gi;
+  const re = /<a[^>]+href="((?:https?:\/\/[^"]+)?\/(?:acoes|setores)\/[^"/]+\/[^"]+)"[^>]*>([\s\S]*?)<\/a>/gi;
   let m;
   while ((m = re.exec(trecho)) !== null) {
     const href = m[1].startsWith('http') ? m[1] : BASE + m[1];

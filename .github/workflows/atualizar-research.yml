@@ -22,7 +22,7 @@ jobs:
           node-version: '20'
 
       - name: Raspar o Genial Analisa
-        run: node scraper/scrape.mjs --limit 12 --out reports.json
+        run: node scraper/scrape.mjs --limit 12 --out ../reports.json
 
       - name: Commitar se houve mudança
         run: |
