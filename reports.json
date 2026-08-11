@@ -1,7 +1,7 @@
 {
-  "geradoEm": "2026-08-10T23:35:44.130Z",
+  "geradoEm": "2026-08-11T11:43:53.793Z",
   "fonte": "https://analisa.genialinvestimentos.com.br/acoes/",
-  "total": 12,
+  "total": 11,
   "reports": [
     {
       "id": "r-cury3-20260810",
@@ -9,7 +9,7 @@
       "empresa": "Cury",
       "setor": "Imobiliário",
       "analista": "João Caldas · Genial Analisa",
-      "publicado": "2026-08-10T20:26:46",
+      "publicado": "2026-08-10T20:39:43",
       "tipo": "Prévia de resultado",
       "rec": "COMPRAR",
       "recAnterior": "COMPRAR",
@@ -19,7 +19,7 @@
       "relevancia": "ALTA",
       "assunto": "Prévia 2T26: Melhor do que a Prévia Sugeriu",
       "fonteTipo": "real",
-      "fonteUrl": "https://analisa.genialinvestimentos.com.br/acoes/cury/cury-cury3-previa-2t26-melhor-do-que-a-previa-sugeriu/",
+      "fonteUrl": "https://analisa.genialinvestimentos.com.br/acoes/cury/cury-cury3-previa-2t26-melhor-do-que-a-previa-sugeriu-2/",
       "fonteLabel": "Cury (CURY3) | Prévia 2T26: Melhor do que a Prévia Sugeriu — Genial Analisa (10/08/2026)",
       "corpo": "A Cury divulgará seus resultados do 2T26 em 11 de agosto de 2026 , após o fechamento. Neste relatório, apresentamos nossa análise da prévia operacional e nossas estimativas para o trimestre.\n\nO mercado leu a prévia operacional como fraca e a ação recuou cerca de 7% no dia seguinte. Apesar de compreendermos o recuo, a decomposição mostra pontos positivos. As vendas de lançamento ficaram estáveis em R$ 1.258 milhões (+1,1% a/a), contra um VGV lançado de R$ 2.256,9 milhões, também praticamente estável, com a totalidade da queda vindo do estoque, que recuou 22,6%. A demanda pelo produto novo se sustentou; o que desacelerou foi a absorção do que já estava na prateleira. O trimestre também pegou a transição das novas condições do MCMV, que passaram a ser operadas pela Caixa em abril. Não vemos preço como explicação para a desaceleração, dado que o preço médio de venda subiu 6,9% a/a contra INCC-M de 6,71% em doze meses.\n\nA companhia produziu 5.737 unidades no trimestre, recorde e alta de 41,8% a/a, e é a obra que puxa a receita. Projetamos receita líquida de R$ 1.674 milhões (+24,3% a/a) e lucro líquido de R$ 319 milhões (+34,8% a/a), ambos novos recordes. O lucro cresce bem acima da receita porque a despesa operacional avança apenas 11,6% no ano, contra 24,3% da receita. Acreditamos que o trimestre deve vir bem melhor do que a prévia sugeriu.\n\nReiteramos nossa recomendação de Compra , com preço-alvo de R$ 48,00 .\n\n35,6% (+0,1 p.p. t/t; +3,6 p.p. a/a). A estabilidade sequencial é o ponto central do trimestre. O arrasto da Alea deve diminuir conforme as safras antigas saem da carteira.",
       "disclaimer": "Este material foi elaborado pela Genial Investimentos e não constitui oferta de compra ou venda de valores mobiliários. Rentabilidade passada não garante resultados futuros.",
@@ -242,28 +242,6 @@
       "fonteUrl": "https://analisa.genialinvestimentos.com.br/acoes/alupar/alupar-alup11-resultado-2t26-os-dois-lados-da-moeda/",
       "fonteLabel": "Alupar (ALUP11) | Resultado 2T26: Os dois lados da moeda! — Genial Analisa (06/08/2026)",
       "corpo": "Seguimos com a recomendação de MANTER. O 2T26 reforçou a tese de Alupar enquanto grande executora de projetos. De um lado, a companhia segue demonstrando boa capacidade de execução, com crescimento regulatório relevante em transmissão, alta disponibilidade operacional, expansão de RAP e avanço do pipeline. A transmissão segue sendo o núcleo de qualidade do case. O segmento entregou crescimento de 15% a/a na receita líquida regulatória e 12,7% a/a no EBITDA, com margem ainda próxima de 90%. A geração, por sua vez, trouxe ruído negativo no trimestre, impactada maior compra de energia, e, claro, curtailment e descolamento de preços entre submercados. Em suma, o resultado foi operacionalmente positivo, mas não isento de pressões. A tese permanece ancorada na previsibilidade regulatória, na entrada de novos projetos e na disciplina de execução. Para destravar valor adicional, a Alupar precisa continuar entregando o pipeline dentro do orçamento, converter capex em RAP incremental e manter a alavancagem sob controle em um ambiente de custo financeiro ainda relevante. Nenhuma grande novidade em relação ao case… só ressaltando que esse trimestre mostrou isso uma vez mais apesar dos pesares no segmento de geração.\n\nA receita líquida regulatória consolidada somou R$ 946,1 milhões no 2T26, alta de 10,3% a/a . A principal contribuição veio da transmissão, cuja receita líquida regulatória atingiu R$ 733,5 milhões, avanço de 14,7% a/a, compensando a queda de 3,5% a/a na receita líquida de geração, que ficou em R$ 212,6 milhões.\n\nTransmissão sendo protagonista . A receita de transmissão de energia, a RAP, somou R$ 812,6 milhões, alta de 14,7% a/a. O crescimento da receita bruta de R$ 101,4 milhões foi explicado principalmente por: TCE, com impacto positivo de R$ 43,4 milhões pela entra",
-      "disclaimer": "Este material foi elaborado pela Genial Investimentos e não constitui oferta de compra ou venda de valores mobiliários. Rentabilidade passada não garante resultados futuros.",
-      "_fonte": "scraper"
-    },
-    {
-      "id": "r-egie3-20260806",
-      "ticker": "EGIE3",
-      "empresa": "Engie",
-      "setor": "Energia",
-      "analista": "Vitor Sousa · Genial Analisa",
-      "publicado": "2026-08-06T17:28:25",
-      "tipo": "Resultado trimestral",
-      "rec": "MANTER",
-      "recAnterior": "MANTER",
-      "precoAlvo": 35,
-      "precoAlvoAnterior": 35,
-      "precoAtual": 30,
-      "relevancia": "MÉDIA",
-      "assunto": "Resultado 2T26: Boas vindas a Usina Hidroelétrica de Jirau!",
-      "fonteTipo": "real",
-      "fonteUrl": "https://analisa.genialinvestimentos.com.br/acoes/engie/engie-egie3-resultado-2t26-boas-vindas-a-usina-hidroeletrica-de-jirau/",
-      "fonteLabel": "Engie (EGIE3) | Resultado 2T26: Boas vindas a Usina Hidroelétrica de Jirau! — Genial Analisa (06/08/2026)",
-      "corpo": "Seguimos com a recomendação de MANTER. A Engie reportou um bom resultado no 2T26, com melhora relevante do desempenho operacional e, principalmente, uma dinâmica mais saudável no segmento de geração. A receita líquida atingiu R$ 3,5 bilhões (+13,8% a/a), enquanto o EBITDA ajustado alcançou R$ 2,18 bilhões (+16,8% a/a) e o lucro líquido ajustado ficou em R$ 694 milhões (+23,0% a/a). A margem EBITDA avançou 1,6 p.p., para 62,1%. Em nossa leitura, mais importante que os números absolutos foi a composição: a geração voltou a crescer, beneficiada por maior volume comercializado, melhor GSF e maior contribuição das operações de curto prazo, compensando um preço médio contratado ainda pressionado.\n\nO trimestre também marca uma mudança importante na tese. O ciclo pesado de investimentos orgânicos começa a perder intensidade (o capex foi de apenas R$ 329 milhões no 2T26) ao mesmo tempo em que ativos construídos nos últimos anos passam a contribuir integralmente para os resultados. Entretanto, esse processo de maturação foi acompanhado por uma nova grande alocação de capital: após o encerramento do trimestre, a companhia concluiu o follow-on de R$ 8,36 bilhões, incorporando os 40% de Jirau avaliados em R$ 5,7 bilhões e captando outros R$ 2,62 bilhões em dinheiro. Escrevemos a nossa opinião sobre a aquisição (Para maiores informações, clique aqui: Engie (EGIE3) | O que achamos da aquisição da Fatia UHE Jirau? ).\n\nSeguimos enxergando a companhia como um ativo de alta qualidade operacional, portfólio diversificado e boa previsibilidade de resultados, mas entendemos que a criação de valor daqui para frente dependerá cada vez mais da disciplina na alocação de capital. A entrada de Jirau amplia EBITDA e geração de caixa, mas também aumenta novamente a exposição hidrológica do portfólio",
       "disclaimer": "Este material foi elaborado pela Genial Investimentos e não constitui oferta de compra ou venda de valores mobiliários. Rentabilidade passada não garante resultados futuros.",
       "_fonte": "scraper"
     }
